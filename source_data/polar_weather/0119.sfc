@@ -1,0 +1,842 @@
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+01 0050                                                           -29.3 110 09   686.3 2875  
+01 0150                                                           -29.1 110 08   686.0 2874  
+01 0250                                                           -28.7 100 09   685.6 2872  
+01 0350                                                           -28.4 100 09   685.3 2871  
+01 0450                                                           -28.4 100 10   685.0 2870  
+01 0550 SKC                         9999                          -28.5 100 10   684.5 2868  CLN AIR 10011KT SDG/HDG
+01 0650                                                           -28.1 100 10   684.3 2867  
+01 0750                                                           -28.2 090 10   684.0 2866  
+01 0850                                                           -28.1 080 09   683.8 2865  
+01 0950                                                           -28.1 080 08   683.5 2864  
+01 1050                                                           -28.0 070 09   683.3 2863  
+01 1150 SCT020                      9999                          -27.5 070 08   683.1 2863  CLN AIR 08008KT SDG/HDF
+01 1250 FEW020                      9999                          -26.9 070 09   683.0 2862  CLN AIR 08008KT SDG/HDG
+01 1350 FEW020                      9999                          -26.5 080 09   682.7 2861  CLN AIR 08008KT SDG/HDG
+01 1450 FEW020                      9999                          -26.3 080 10   682.2 2859  CLN AIR 09008KT SDG/HDG
+01 1550 SCT020                      9999                          -26.2 090 10   682.0 2858  CLN AIR 09007KT SDG/HDG
+01 1650 FEW020                      9999                          -26.5 090 11   681.7 2857  CLN AIR 09009KT SDG/HDG
+01 1750 FEW020                      9999                          -26.5 080 10   681.4 2856  CLN AIR 08009KT SDG/HDG
+01 1850 FEW020                      9999                          -26.7 070 10   681.2 2855  CLN AIR 08010KT SDG/HDG
+01 1950 FEW020                      9999                          -26.7 070 09   681.0 2854  CLN AIR 08009KT SDG/HDG
+01 2050 FEW020 FEW050               9999                          -26.9 070 09   681.0 2854  CONTRAIL FEW050 CLN AIR 08009KT SDG/HDG
+01 2150 FEW020                      9999                          -27.3 070 09   680.8 2853  CLN AIR 08008KT SDG/HDG
+01 2250 FEW020                      9999                          -27.4 080 09   680.5 2853  CLN AIR 08009KT SDG/HDG
+01 2350 FEW020                      9999                          -27.3 070 09   680.3 2852  CLN AIR 08009KT SDG/HDG
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+02 0050 FEW020                      9999                          -26.4 070 09   680.0 2850  CLN AIR 08010KT SDG/HDG
+02 0150                                                           -26.5 070 09   679.8 2850  
+02 0250                                                           -26.7 070 10   679.5 2848  
+02 0350                                                           -26.5 060 09   679.4 2848  
+02 0450                                                           -25.8 070 09   679.3 2848  
+02 0550 BKN045                      9999                          -26.2 060 09   679.3 2847  CLN AIR 07009KT SDG/HDG
+02 0650                                                           -25.8 060 08   679.2 2847  
+02 0750                                                           -25.6 050 08   679.2 2847  
+02 0850                                                           -25.8 050 10   679.1 2847  
+02 0950                                                           -25.3 060 07   678.9 2846  
+02 1050                                                           -26.3 070 08   678.9 2846  
+02 1150 FEW020 SCT050 BKN120        9999                          -26.3 080 08   678.7 2845  CLN AIR 09008KT SDG/HDF
+02 1250                                                           -26.1 080 07   678.6 2844  
+02 1350 FEW020 SCT050 BKN120        9999                          -26.4 090 08   678.5 2844  CLN AIR 09008KT SDG/HDF
+02 1450 FEW020 SCT050 BKN120        9999                          -25.4 090 09   678.2 2843  CLN AIR 09010KT SDG/HDF
+02 1550 FEW020 SCT050 BKN120        9999                          -25.5 080 09   678.2 2843  CLN AIR 08011KT SDG/HDF
+02 1650 FEW020 SCT060 BKN150        9999                          -25.9 080 10   678.1 2843  CLN AIR 08010KT SDG/HDF
+02 1750 SCT010 BKN060 BKN150        9999                          -24.7 050 08   678.0 2843  CLN AIR 05009KT SDG/HDF
+02 1820 BKN003 BKN010               9999                          -24.2 060 08   678.0 2843  CLN AIR 06008KT SDG/HDF
+02 1850 SCT003 BKN006 BKN010        9999                          -24.0 060 08   678.0 2842  CLN AIR 06008KT SDG/HDG
+02 1950                                                           -24.2 040 09   678.0 2843  
+02 2050                                                           -25.2 050 07   678.1 2843  
+02 2150 FEW003 SCT008 BKN080        9999                          -25.8 050 07   678.1 2843  CLN AIR 06007KT SDG/HDG
+02 2250 FEW003 SCT008 BKN080        9999 IC                       -26.2 050 07   678.1 2843  CLN AIR 05006KT SDG/HDG
+02 2335 FEW003 BKN006               9999                          -26.1 040 07   678.2 2843  CLN AIR 04007KT SDG/HDG
+02 2350 BKN005                      9999 IC                       -26.0 030 07   678.2 2843  CLN AIR 03007KT SDG/HDG
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+03 0050 BKN005                      9999                          -26.3 020 08   678.1 2843  CLN AIR 03008KT SDG/HDG
+03 0150 BKN004                      9999                          -25.8 020 07   678.0 2843  CLN AIR 03007KT SDG/HDG
+03 0250 OVC003                      9999                          -25.5 010 07   678.1 2843  CLN AIR 02006KT SDG/HDG
+03 0350 OVC003                      9999                          -25.6 010 07   678.0 2843  CIG 002V005 CLN AIR 02006KT SDG/HDG
+03 0450 BKN004                      9999                          -25.6 360 06   678.0 2842  CIG 003V006 CLN AIR 03007KT SDG/HDG
+03 0533 SCT004 BKN012               9999 IC                       -26.1 010 06   678.0 2843  CLN AIR 02005KT SDG/HDG
+03 0550 FEW005 BKN012               9999 IC                       -26.3 010 06   678.0 2843  CLN AIR 03007KT SDG/HDG
+03 0650 SCT005 SCT012               9999 IC                       -25.4 020 05   677.9 2842  SCT012 V BKN CLN AIR 03006KT SDG/HDG
+03 0750                                                           -25.8 070 03   677.9 2842  
+03 0850                                                           -25.7 080 04   677.9 2842  
+03 0950                                                           -25.0 040 04   677.8 2842  
+03 1050                                                           -25.1 040 04   677.7 2841  
+03 1150 SCT008 BKN045               9999 -SG                      -26.4 010 07   677.8 2842  CLN AIR 02006KT SDG/HDG
+03 1250                                                           -27.2 020 07   677.8 2842  
+03 1350                                                           -27.4 010 09   677.8 2842  
+03 1450                                                           -27.5 010 08   677.9 2842  
+03 1550 FEW008 BKN014               9999 IC                       -27.8 010 10   677.8 2842  CLN AIR 02009KT SDG/HDG
+03 1650 FEW008 SCT015               9999 IC                       -28.2 010 07   678.0 2842  CLN AIR 02008KT SDG/HDG
+03 1750 FEW008 FEW015 SCT025        9999 IC                       -28.4 010 07   678.1 2843  CLN AIR 01008KT SDG/HDG
+03 1850 FEW015 FEW025               9999                          -28.8 020 07   678.1 2843  CLN AIR 03006KT SDG/HDG
+03 1950 FEW003 SCT008 SCT025        9999 IC VCFG                  -28.8 040 06   678.2 2843  VCFG GRID S CLN AIR 05005KT SDG/HDG
+03 2050 FEW003 FEW008 SCT025        9999                          -28.5 050 06   678.3 2843  CLN AIR 06005KT SDG/HDG
+03 2150 FEW008 FEW025 SCT120        9999                          -29.3 030 07   678.3 2843  CLN AIR 04007KT SDG/HDG
+03 2250 FEW008 FEW025 SCT120        9999                          -29.3 020 09   678.3 2844  CLN AIR 03007KT SDG/HDG
+03 2350 FEW008 FEW025               9999                          -29.4 020 08   678.3 2844  CLN AIR 03007KT SDG/HDG
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+04 0050 FEW008 FEW025               9999                          -29.5 020 07   678.4 2844  CLN AIR 04007KT SDG/HDG
+04 0150 FEW000 FEW008 FEW025        9999                          -29.7 020 08   678.5 2845  CONTRAIL FEW000 CLN AIR 03006KT SDG/HDG
+04 0250 FEW008                      9999                          -29.9 030 06   678.4 2844  CLN AIR 04006KT SDG/HDG
+04 0350 FEW008                      9999                          -30.1 020 05   678.4 2844  CLN AIR 03006KT SDG/HDG
+04 0450 FEW008                      9999                          -30.3 020 05   678.5 2845  CLN AIR 03006KT SDG/HDG
+04 0550 FEW008                      9999                          -30.5 030 06   678.6 2845  CLN AIR 03006KT SDG/HDG
+04 0650 SKC                         9999                          -30.3 010 06   678.8 2846  CLN AIR 02006KT SDG/HDG
+04 0750 SKC                         9999                          -30.5 010 05   679.0 2846  CLN AIR 01005KT SDG/HDG
+04 0850 SKC                         9999                          -30.1 360 04   679.1 2847  CLN AIR 01005KT SDG/HDG
+04 0950                                                           -30.1 360 05   679.4 2848  
+04 1050                                                           -30.0 010 05   679.5 2848  
+04 1150 FEW020                      9999                          -30.0 010 05   679.7 2849  CLN AIR 02005KT SDG/HDG
+04 1250                                                           -29.9 010 05   680.0 2850  
+04 1350                                                           -29.8 010 05   680.3 2852  
+04 1450                                                           -29.8 360 05   680.5 2852  
+04 1550                                                           -29.8 010 04   680.6 2853  
+04 1650 FEW020 FEW080               9999                          -29.8 010 06   680.8 2854  CLN AIR 02006KT SDG/HDG
+04 1750 FEW020 FEW080               9999                          -29.8 010 04   681.2 2855  CLN AIR 02005KT SDG/HDG
+04 1850                                                           -29.8 010 05   681.4 2856  
+04 1950                                                           -29.7 010 07   681.8 2857  
+04 2050                                                           -29.7 360 06   682.0 2858  
+04 2150                                                           -29.7 360 06   682.2 2859  
+04 2250                                                           -29.0 010 05   682.4 2860  
+04 2350 BKN012 BKN050               9999                          -28.4 020 04   682.7 2861  CLN AIR 03004KT SDG/HDG
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+05 0050                                                           -28.0 360 04   682.9 2862  
+05 0150                                                           -27.6 030 04   682.8 2861  
+05 0250                                                           -28.0 020 07   683.1 2863  
+05 0350                                                           -28.3 020 08   683.2 2863  
+05 0450                                                           -27.9 020 08   683.2 2863  
+05 0550 FEW010 BKN070               9999                          -27.5 010 06   683.4 2864  CLN AIR 02006KT SDG/HDG
+05 0650                                                           -27.5 330 06   683.7 2865  
+05 0750                                                           -27.5 300 08   684.0 2866  
+05 0850                                                           -27.7 300 07   684.2 2867  
+05 0950                                                           -27.6 280 04   684.2 2868  
+05 1050                                                           -27.6 310 03   684.5 2868  
+05 1150 BKN005 BKN030 BKN070        9999                          -27.2 310 04   684.5 2868  CLN AIR 31005KT SDG/HDF
+05 1250                                                           -27.1 300 06   684.6 2868  
+05 1350                                                           -27.3 280 04   684.9 2869  
+05 1450                                                           -27.8 270 03   684.8 2869  
+05 1550                                                           -27.7 250 03   684.9 2870  
+05 1650                                                           -27.4 240 04   685.1 2870  
+05 1750 BKN005 OVC030               4800 -SG IC                   -27.6 260 10   685.2 2871  CLN AIR 26004KT SDG/HDP
+05 1850                                                           -26.6 250 08   685.3 2871  
+05 1950                                                           -26.5 260 07   685.3 2871  
+05 2050                                                           -26.5 240 04   685.4 2872  
+05 2150                                                           -26.1 000 00   685.5 2872  
+05 2250                                                           -26.4 000 00   685.5 2872  
+05 2350 OVC006                      6000 -SG BR                   -25.5 270 03   685.5 2872  CLN AIR 00000KT SDG/HDF
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+06 0050                                                           -25.1 000 00   685.4 2871  
+06 0150                                                           -26.0 000 00   685.3 2871  
+06 0250                                                           -26.1 000 00   685.2 2871  
+06 0350                                                           -26.7 060 03   685.2 2871  
+06 0450                                                           -27.4 060 04   685.1 2870  
+06 0550 SCT006 BKN025 BKN110        9999 IC                       -27.9 060 04   685.1 2870  CLN AIR 06005KT SDG/HDG
+06 0650                                                           -27.5 000 00   685.1 2870  
+06 0750                                                           -28.4 000 00   685.0 2870  
+06 0850                                                           -28.2 100 04   685.1 2870  
+06 0950                                                           -28.4 090 06   685.0 2870  
+06 1050                                                           -28.1 120 05   685.0 2870  
+06 1150 SCT060                      9999 IC                       -28.1 110 05   684.9 2870  CLN AIR 11005KT SDG/HDG
+06 1250 SCT060                      9999 IC                       -27.1 000 00   684.9 2869  CLN AIR 11004KT SDG/HDG
+06 1350 BKN060                      9999 IC                       -27.2 000 00   684.7 2869  CLN AIR 12005KT SDG/HDG
+06 1450 BKN060                      9999 IC                       -27.7 110 06   684.5 2868  CLN AIR 11007KT SDG/HDG
+06 1550 SCT030 BKN060               9999 IC                       -27.7 120 07   684.4 2868  CLN AIR 13007KT SDG/HDG
+06 1650 FEW030 SCT060               9999 IC                       -27.7 120 08   684.4 2867  CLN AIR 11009KT SDG/HDG
+06 1750 SCT060                      9999                          -27.7 110 07   684.4 2868  CLN AIR 10006KT SDG/HDG
+06 1850 SCT060                      9999                          -27.8 120 07   684.4 2868  CLN AIR 12007KT SDG/HDG
+06 1950 SCT060 BKN100               9999                          -27.4 120 06   684.4 2868  CLN AIR 12007KT SDG/HDG
+06 2050 SCT060 SCT100               9999                          -27.5 120 05   684.3 2867  CLN AIR 12004KT SDG/HDG
+06 2150 SCT060 BKN100               9999                          -27.6 110 05   684.3 2867  CLN AIR 10006KT SDG/HDG
+06 2250 SCT060 BKN100               9999                          -27.4 100 05   684.4 2867  CLN AIR 10005KT SDG/HDG
+06 2350 FEW030 SCT060 BKN100        9999 IC                       -27.2 110 07   684.2 2867  CLN AIR 11007KT SDG/HDG
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+07 0050 FEW010 FEW030 SCT060 BKN100 9999 IC                       -26.7 100 08   684.1 2866  CLN AIR 10008KT SDG/HDG
+07 0150 FEW010 FEW030 SCT060 BKN100 9999                          -26.8 100 07   684.3 2867  CLN AIR 09006KT SDG/HDG
+07 0250 FEW010 SCT100               9999                          -27.1 090 05   684.1 2866  CLN AIR 09006KT SDG/HDG
+07 0350 FEW010 SCT100               9999                          -27.6 090 05   684.0 2866  CLN AIR 09006KT SDG/HDG
+07 0450 FEW010 FEW100               9999                          -27.9 090 05   683.9 2866  CLN AIR 09007KT SDG/HDG
+07 0550 FEW100                      9999                          -27.7 080 05   684.0 2866  CLN AIR 09006KT SDG/HDG
+07 0650 FEW100                      9999                          -27.4 090 03   683.9 2866  CLN AIR 09006KT SDG/HDG
+07 0750 SCT100                      9999                          -27.7 100 03   683.8 2865  CLN AIR 08006KT SDG/HDG
+07 0850 SCT100                      9999                          -27.4 090 06   684.0 2866  CLN AIR 09006KT SDG/HDG
+07 0950 SCT100                      9999                          -27.1 070 05   684.1 2866  CLN AIR 08006KT SDG/HDG
+07 1050 FEW040 SCT120               9999                          -27.6 070 07   684.0 2866  CLN AIR 08008KT SDG/HDG
+07 1150 FEW040 BKN120               9999                          -27.9 060 05   684.1 2866  CLN AIR 07007KT SDG/HDG
+07 1250 FEW040 BKN120               9999                          -26.9 060 05   684.1 2866  CLN AIR 07007KT SDG/HDG
+07 1350 FEW040 BKN120               9999                          -26.8 040 05   684.1 2867  CLN AIR 05007KT SDG/HDG
+07 1450 FEW040 SCT120               9999                          -27.2 050 06   684.2 2867  CLN AIR 05006KT SDG/HDG
+07 1550 FEW005 SCT030 BKN120        9999                          -27.6 040 05   684.1 2866  CLN AIR 05006KT SDG/HDG
+07 1650 FEW005 SCT030 BKN120        9999                          -28.0 020 06   684.2 2867  CLN AIR 04007KT SDG/HDG
+07 1750 SCT005 BKN030 BKN120        9000 BR                       -29.2 350 06   684.3 2867  VIS GRID W-N 3200 CLN AIR 36005KT SDG/HDF
+07 1850 SCT005 BKN030 BKN120        9000 BR                       -27.8 040 03   684.4 2868  VIS GRID SE AND W-NW 3200 CLN AIR 00000KT SDG/HDF
+07 1950 SCT005 BKN030 BKN120        9999                          -27.5 050 06   684.5 2868  CLN AIR 05005KT SDG/HDG
+07 2050 SCT005 BKN030 BKN120        9999 IC                       -27.9 040 06   684.6 2868  FG DSNT GRID S CLN AIR 05006KT SDG/HDG
+07 2150 SCT005 BKN030 BKN120        9999                          -28.0 040 06   684.6 2868  FG DSNT GRID SW CLN AIR 04007KT SDG/HDG
+07 2250 BKN005 BKN030               9999                          -27.6 020 07   684.5 2868  FG DSNT GRID S-SW CLN AIR 01008KT SDG/HDG
+07 2350 FEW000 BKN005 BKN010        9999                          -27.1 010 08   684.6 2868  CONTRAIL FEW000 CLN AIR 02007KT SDG/HDG
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+08 0025 SCT005 BKN010               9999                          -27.8 020 07   684.7 2869  CLN AIR 02006KT SDG/HDG
+08 0050 SCT005 BKN010               9999                          -27.3 010 05   684.7 2869  CLN AIR 01009KT SDG/HDG
+08 0150 BKN005 BKN010               9999                          -27.3 360 07   684.7 2869  CLN AIR 01006KT SDG/HDG
+08 0250 OVC007                      9999                          -27.2 010 08   684.7 2869  CLN AIR 36008KT SDG/HDG
+08 0350 BKN006 OVC010               9999                          -27.5 350 08   684.6 2868  CLN AIR 36007KT SDG/HDG
+08 0450 BKN006 OVC010               9999                          -27.7 360 07   684.7 2869  CLN AIR 35007KT SDG/HDG
+08 0550 OVC006                      9999                          -28.0 350 09   684.9 2870  CLN AIR 36007KT SDG/HDG
+08 0650 BKN009                      9999                          -28.5 360 08   685.0 2870  CLN AIR 36007KT SDG/HDG
+08 0750 BKN009                      9999                          -28.4 330 08   685.0 2870  CLN AIR 35007KT SDG/HDG
+08 0850 OVC008                      9999                          -28.6 330 09   685.1 2870  CLN AIR 33008KT SDG/HDG
+08 0950 OVC008                      9999                          -28.1 340 08   685.3 2871  CLN AIR 34007KT SDG/HDG
+08 1050 OVC008                      9999                          -28.1 340 08   685.4 2871  CLN AIR 34006KT SDG/HDF
+08 1150 OVC008                      9999                          -28.2 340 07   685.5 2872  CLN AIR 33008KT SDG/HDF
+08 1250 OVC008                      9999                          -28.1 320 06   685.7 2873  CLN AIR 36005KT SDG/HDF
+08 1350 OVC008                      8000 BR                       -28.2 330 05   685.7 2873  CLN AIR 32009KT SDG/HDF
+08 1450 OVC008                      9000 BR                       -27.9 330 05   685.7 2873  CLN AIR 34006KT SDG/HDF
+08 1550 BKN008 BKN060               9000 BR                       -27.7 300 04   685.9 2873  CLN AIR 31005KT SDG/HDF
+08 1639 SCT008 BKN060               8000 BR                       -28.2 290 05   685.9 2874  CLN AIR 30005KT SDG/HDF
+08 1650 SCT008 OVC060               8000 BR                       -28.3 300 05   686.0 2874  CLN AIR 30005KT SDG/HDF
+08 1719 BKN008 BKN060               6000 BR                       -28.0 300 05   686.0 2874  CLN AIR 29006KT SDG/HDP
+08 1750 BKN008 BKN030 BKN060        6000 -SG BR                   -28.1 300 04   686.0 2874  CLN AIR 29004KT SDG/HDF
+08 1850 SCT008 BKN030 OVC060        8000 -SG IC BR                -28.6 320 05   686.3 2875  CLN AIR 32004KT SDG/HDG
+08 1950 SCT008 BKN025 OVC050        9000 IC BR                    -28.3 310 05   686.5 2876  CLN AIR 31005KT SDG/HDG
+08 2050 SCT008 BKN025 BKN050        9000 IC BR                    -28.7 320 05   686.7 2876  CLN AIR 32005KT SDG/HDG
+08 2150 SCT008 BKN025 BKN050        9999 IC                       -28.4 330 04   686.9 2877  CLN AIR 33005KT SDG/HDG
+08 2250 SCT008 SCT025 BKN050        9999 IC                       -28.7 340 06   687.0 2878  CLN AIR 35005KT SDG/HDG
+08 2350 FEW008 SCT025 OVC050        9999 IC                       -29.2 350 05   687.1 2878  CLN AIR 36005KT SDG/HDG
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+09 0050 SCT008 SCT025 OVC050        8000 IC BR                    -29.5 360 05   687.2 2879  CLN AIR 36005KT SDG/HDG
+09 0150 FEW010 FEW025 BKN050 BKN100 9000 IC BR                    -29.6 360 05   687.1 2878  CLN AIR 01005KT SDG/HDG
+09 0250 FEW025 SCT050 BKN100        9999 IC                       -29.3 020 06   687.2 2879  CLN AIR 04005KT SDG/HDG
+09 0350 FEW025 SCT050 BKN100        9999                          -29.4 040 06   687.3 2879  CLN AIR 05005KT SDG/HDG
+09 0450 FEW025 SCT050 BKN100        9999                          -29.4 040 05   687.3 2879  CLN AIR 05005KT SDG/HDG
+09 0550 FEW025 SCT050 BKN100        9999                          -29.4 040 05   687.3 2879  CLN AIR 04006KT SDG/HDG
+09 0650 FEW025 FEW050 BKN120        9999                          -27.9 010 06   687.4 2879  CLN AIR 02006KT SDG/HDG
+09 0750 SCT018 BKN060 BKN120        9999                          -28.2 010 06   687.5 2880  CLN AIR 01007KT SDG/HDG
+09 0850 SCT018 BKN080               9999                          -27.8 360 06   687.6 2880  CLN AIR 36007KT SDG/HDG
+09 0950 SCT018 BKN080               9999                          -27.1 350 07   687.7 2881  CLN AIR 35006KT SDG/HDG
+09 1050 SCT025 BKN030 BKN060        9000 -SG IC                   -27.3 350 06   687.9 2881  CLN AIR 36007KT SDG/HDG
+09 1150 SCT020 BKN030 BKN060        9000 -SG IC                   -27.3 350 07   688.0 2882  CLN AIR 36007KT SDG/HDG
+09 1250 SCT020 BKN030 BKN060        9000 -SG IC                   -26.5 350 05   688.2 2882  CLN AIR 35007KT SDG/HDF
+09 1350 SCT015 BKN030 BKN060        9000 -SG IC                   -25.9 340 06   688.2 2883  CLN AIR 34007KT SDG/HDF
+09 1421 BKN015 BKN030 OVC060        9000 -SG IC                   -25.7 340 08   688.2 2883  CLN AIR 35008KT SDG/HDF
+09 1450 BKN015 BKN030 OVC060        9000 -SG IC                   -25.2 330 09   688.3 2883  CLN AIR 32012KT SDG/HDF
+09 1550 BKN015 OVC030               6000 -SG IC                   -24.6 310 09   688.3 2883  CLN AIR 33010KT SDG/HDP
+09 1650 BKN015 OVC030               6000 -SG BR                   -24.6 320 08   688.4 2884  CLN AIR 33008KT SDF/HDP
+09 1750 BKN015 OVC030               6000 -SG BR                   -24.5 310 06   688.6 2884  CLN AIR 31006KT SDF/HDP
+09 1850 BKN015 BKN030               9000 -SG BR                   -24.4 320 06   688.7 2884  CLN AIR 33005KT SDF/HDF
+09 1950 BKN015                      9999 -SG                      -24.4 000 00   688.8 2885  CLN AIR 29003KT SDF/HDF
+09 2020 FEW008 BKN015               2400 -SG IC BR                -24.4 000 00   688.9 2886  CLN AIR 00000KT SDF/HDP
+09 2035 FEW008 BKN015               1200 -SG IC BR                -24.5 000 00   689.0 2886  VIS GRID W 1600 CLN AIR 00000KT SDF/HDP
+09 2050 FEW008 BKN015               1600 -SG IC BR                -24.4 000 00   689.1 2886  CLN AIR 00000KT SDG/HDP
+09 2103 FEW008 BKN015               3200 -SG IC BR                -24.1 000 00   689.1 2886  CLN AIR 00000KT SDG/HDP
+09 2150 FEW008 BKN015               8000 -SG BR                   -24.4 000 00   689.2 2886  CLN AIR 00000KT SDG/HDF
+09 2250 BKN015                      9000 -SG BR                   -23.9 000 00   689.2 2886  CLN AIR 00000KT SDF/HDF
+09 2350 FEW008 BKN015               3200 -SG BR                   -23.9 000 00   689.1 2886  VIS GRID S 4800 CLN AIR 00000KT SDF/HDF
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+10 0030 FEW008 BKN015 BKN025        4800 -SG BR                   -24.5 000 00   689.1 2886  VIS GRID N 3200 GRID E 9999 CLN AIR 14005KT SDG/HDF
+10 0050 FEW008 BKN015 BKN025        4800 -SG BR                   -24.9 090 04   689.1 2886  CLN AIR 11004KT SDG/HDF
+10 0125 SCT015 SCT030               8000 IC BR                    -24.4 090 04   689.0 2886  CLN AIR 11004KT SDG/HDG
+10 0150 SCT015                      9999 IC                       -25.7 100 05   689.0 2886  CLN AIR 09006KT SDG/HDG
+10 0250 FEW015                      9999                          -26.9 110 06   688.9 2885  	CLN AIR 10006KT SDG/HDG
+10 0350 FEW015                      9999                          -27.6 120 08   688.9 2885  CLN AIR 13007KT SDG/HDG
+10 0450 FEW015                      9999                          -28.3 120 08   688.9 2885  CLN AIR 12007KT SDG/HDG
+10 0550 FEW015                      9999                          -28.8 110 10   688.8 2885  CLN AIR 11008KT SDG/HDG
+10 0650 SKC                         9999                          -28.9 120 10   689.0 2886  CLN AIR 12010KT SDG/HDG
+10 0750 SKC                         9999                          -29.1 120 09   689.0 2886  CLN AIR 12010KT SDG/HDG
+10 0850 SKC                         9999                          -29.0 100 10   689.0 2886  CLN AIR 10009KT SDG/HDG
+10 0950 SKC                         9999                          -29.0 100 10   689.0 2886  CLN AIR 11009KT SDG/HDG
+10 1050 SKC                         9999                          -29.3 100 12   689.1 2886  CLN AIR 10008KT SDG/HDG
+10 1150 SKC                         9999                          -29.0 100 09   689.1 2886  CLN AIR 11009KT SDG/HDG
+10 1250 SKC                         9999                          -29.0 090 10   689.1 2886  CLN AIR 09010KT SDG/HDG
+10 1350 SKC                         9999                          -29.1 100 10   689.1 2886  CLN AIR 10010KT SDG/HDG
+10 1450 SKC                         9999                          -28.8 110 08   689.1 2886  CLN AIR 11007KT SDG/HDG
+10 1550 FEW050                      9999                          -28.8 090 07   689.2 2886  CONTRAIL FEW050 CLN AIR 09008KT SDG/HDG
+10 1650 FEW050                      9999                          -28.9 090 10   689.4 2887  CLN AIR 09007KT SDG/HDG
+10 1750 FEW030                      9999                          -29.0 080 08   689.5 2888  CLN AIR 08008KT SDG/HDG
+10 1850 FEW030                      9999                          -29.1 080 09   689.7 2888  CLN AIR 08009KT SDG/HDG
+10 1950 FEW002 FEW030               9999                          -28.7 070 08   689.8 2889  CONTRAIL FEW002 CLN AIR 07008KT SDG/HDG
+10 2050 FEW030                      9999 IC                       -28.8 070 08   690.0 2890  CLN AIR 07008KT SDG/HDG
+10 2150 FEW030                      9999 IC                       -28.8 080 07   690.3 2891  CLN AIR 08007KT SDG/HDG
+10 2250 FEW030                      9999 IC                       -29.0 070 08   690.5 2892  CLN AIR 08008KT SDG/HDG
+10 2350 FEW030                      9999 IC                       -29.0 070 08   690.6 2892  CLN AIR 08009KT SDG/HDG
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+11 0050 FEW030 FEW060               9999 IC                       -28.9 070 08   690.7 2893  CLN AIR 07008KT SDG/HDG
+11 0150 FEW030 FEW060               9999 IC                       -28.6 070 07   690.9 2893  CLN AIR 07008KT SDG/HDG
+11 0250 FEW060                      9999                          -28.9 080 07   691.0 2894  CLN AIR 08006KT SDG/HDG
+11 0350 FEW060                      9999                          -29.2 070 07   691.1 2894  CLN AIR 08007KT SDG/HDG
+11 0450 SKC                         9999                          -29.2 080 08   691.1 2894  CLN AIR 08008KT SDG/HDG
+11 0550 SKC                         9999                          -29.1 070 06   691.3 2895  CLN AIR 07008KT SDG/HDG
+11 0650 FEW060                      9999                          -28.8 070 07   691.5 2895  CLN AIR 07007KT SDG/HDG
+11 0750 FEW060                      9999                          -28.7 060 07   691.7 2896  CLN AIR 06008KT SDG/HDG
+11 0850 FEW060                      9999                          -28.6 060 07   691.8 2897  CLN AIR 06008KT SDG/HDG
+11 0950 FEW020 SCT060               9999                          -28.7 060 07   692.0 2897  CLN AIR 06008KT SDG/HDG
+11 1050 SCT020 BKN060               9999                          -29.3 060 06   692.2 2898  CLN AIR 06006KT SDG/HDF
+11 1110 BKN020 BKN060               9999                          -27.8 060 06   692.3 2898  CLN AIR 06007KT SDG/HDF
+11 1150 BKN020 BKN060               9000 BR                       -26.4 060 07   692.2 2898  CLN AIR 07008KT SDG/HDF
+11 1250 BKN020 OVC060               9000 BR                       -25.6 070 08   692.2 2898  CLN AIR 08009KT SDG/HDF
+11 1350 OVC020                      9000 BR                       -24.5 070 08   692.0 2897  CLN AIR 09003KT SDG/HDP
+11 1450 OVC020                      8000 BR                       -24.2 100 09   691.8 2896  CLN AIR 10003KT SDG/HDP
+11 1550 OVC020                      6000 BR                       -24.4 080 12   691.6 2896  CLN AIR 09002KT SDF/HDP
+11 1650 OVC020                      6000 -SG BR                   -24.2 090 11   691.5 2895  CLN AIR 09007KT SDF/HDP
+11 1750 OVC020                      6000 -SG BR                   -23.0 040 12   691.6 2896  CLN AIR 02002KT SDF/HDP
+11 1850 BKN020                      8000 BR                       -23.8 010 11   691.8 2897  CLN AIR 01003KT SDG/HDG
+11 1950 BKN015                      9000 BR                       -23.5 020 06   691.9 2897  CLN AIR 02003KT SDG/HDG
+11 2050 BKN020                      9000 BR                       -23.9 030 08   691.8 2897  CLN AIR 03005KT SDG/HDG
+11 2150 BKN020                      8000 BR                       -23.4 030 10   691.8 2897  CLN AIR 04005KT SDF/HDP
+11 2250 OVC016                      8000 BR                       -23.0 050 09   691.8 2897  CLN AIR 04008G15KT SDF/HDP
+11 2350 OVC015                      6000 -SG BR                   -22.7 030 12G16691.7 2896  CLN AIR 04010KT SDF/HDP
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+12 0050 OVC015                      6000 -SG BR                   -23.2 050 11G16691.6 2896  CLN AIR 06013G17KT SDF/HDP
+12 0150 OVC016                      8000 -SG BR                   -24.0 050 13   691.6 2896  CLN AIR 05012G16KT SDF/HDP
+12 0250 BKN018                      9999                          -25.4 060 11   691.4 2895  CLN AIR 06008KT SDG/HDF
+12 0308 SCT020                      9999                          -25.7 070 10   691.3 2895  CLN AIR 06009KT SDG/HDG
+12 0350 FEW020                      9999                          -26.1 060 10   691.1 2894  CLN AIR 06009KT SDG/HDG
+12 0450 FEW020 FEW060               9999                          -26.4 050 10   691.0 2894  CLN AIR 06010KT SDG/HDG
+12 0550 FEW060                      9999 IC                       -26.5 060 09   691.1 2894  CLN AIR 06010KT SDG/HDG
+12 0650                                                           -26.3 050 10   691.0 2894  
+12 0750                                                           -26.5 050 09   690.9 2893  
+12 0850                                                           -26.1 050 09   690.8 2892  
+12 0950                                                           -26.0 050 09   690.7 2892  
+12 1050                                                           -25.9 060 10   690.6 2892  
+12 1150 FEW090                      9999                          -25.8 060 09   690.6 2892  CLN AIR 05016KT SDG/HDG
+12 1250                                                           -25.7 050 11   690.5 2891  
+12 1350                                                           -25.6 050 11   690.4 2891  
+12 1450                                                           -25.4 050 10   690.3 2891  
+12 1550                                                           -25.3 050 11   690.1 2890  
+12 1650                                                           -25.4 050 10   690.1 2890  
+12 1750 FEW060                      9999                          -25.5 050 11   690.1 2890  CLN AIR 04007KT SDG/HDG
+12 1850                                                           -25.5 060 09   690.1 2890  
+12 1950                                                           -25.8 060 11   690.0 2890  
+12 2050                                                           -25.8 060 09   689.9 2889  
+12 2150                                                           -25.6 060 10   689.9 2889  
+12 2250                                                           -25.6 060 11   689.8 2889  
+12 2350 FEW060                      9999                          -25.8 070 09   690.0 2889  CLN AIR 07009KT SDG/HDG
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+13 0050                                                           -25.7 060 10   689.8 2889  
+13 0150                                                           -25.5 060 09   689.8 2889  
+13 0250                                                           -25.6 060 09   689.7 2888  
+13 0350                                                           -25.7 070 09   689.7 2888  
+13 0450                                                           -25.6 060 09   689.8 2889  
+13 0550 SKC                         8000 IC BR                    -25.8 050 10   690.0 2890  CLN AIR 06012KT SDG/HDG
+13 0650                                                           -25.4 060 11   690.0 2890  
+13 0750                                                           -25.3 060 09   690.0 2890  
+13 0850                                                           -25.0 050 10   690.2 2890  
+13 0950                                                           -24.8 060 09   690.4 2891  
+13 1050                                                           -24.8 070 08   690.3 2891  
+13 1150 SCT120                      9999                          -25.1 080 09   690.6 2892  CLN AIR 06004KT SDG/HDG
+13 1250                                                           -24.3 070 08   690.8 2892  
+13 1350                                                           -23.3 050 08   690.8 2893  
+13 1450                                                           -23.2 050 08   691.0 2893  
+13 1550 FEW010 SCT030 BKN120        6000 BR                       -23.0 050 08   690.9 2893  CLN AIR 04012KT SDG/HDF
+13 1650 SCT015 BKN030 OVC120        4800 BR                       -22.1 040 09   691.0 2893  CLN AIR 05004KT SDG/HDP
+13 1750 FEW010 SCT015 BKN030 BKN120 4800 IC BR                    -22.5 020 11   691.4 2895  CLN AIR 02011KT SDG/HDF
+13 1820 SCT006 SCT015 BKN030        4800 IC BR                    -22.8 030 09   691.5 2895  CLN AIR 03010KT SDG/HDF
+13 1850 BKN006 BKN015               4800 IC BR                    -22.7 030 10   691.7 2896  CLN AIR 03011KT SDG/HDF
+13 1935 BKN006 BKN015 BKN030        1200 IC BR                    -22.2 360 12   691.7 2896  CLN AIR 01011KT SDG/HDF
+13 1950 SCT000 BKN006 OVC015        1000 IC BR                    -22.2 010 11   691.7 2896  BR SCT000 CLN AIR 01011KT SDG/HDP
+13 2050 FEW000 BKN006 BKN015        1600 IC BR                    -22.2 360 10   691.9 2897  BR FEW000 CLN AIR 01010KT SDG/HDP
+13 2150 SCT006 BKN010 BKN110        3200 IC BR                    -22.6 010 06   692.0 2897  CLN AIR 01007KT SDG/HDF
+13 2250 FEW006 BKN010               3200 IC BR                    -23.4 000 00   692.2 2898  CLN AIR 03006KT SDG/HDF
+13 2310 FEW006 BKN010               6000 IC BR                    -23.1 030 06   692.3 2899  CLN AIR 08003KT SDG/HDF
+13 2350 FEW006 BKN010 BKN110        9999                          -23.9 070 05   692.4 2899  CLN AIR 03007KT SDG/HDG
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+14 0050 FEW006 BKN010               9999                          -22.7 020 05   692.6 2900  CLN AIR 03006KT SDG/HDG
+14 0150 SCT006 BKN010               8000 BR                       -22.1 020 10   692.5 2899  VIS GRID N AND S 3200 CLN AIR 02009KT SDG/HDF
+14 0225 BKN006 OVC010               2400 BR                       -21.7 010 10   692.3 2899  VIS GRID N 1600 CLN AIR 02009G15KT SDF/HDP
+14 0250 FEW000 BKN006 OVC010        2400 BR                       -21.9 360 12   692.5 2899  VIS GRID S 1600 BR FEW000 CLN AIR 02009KT SDG/HDP
+14 0335 FEW000 BKN006 OVC010        1600 IC BR                    -22.0 360 11   692.4 2899  VIS GRID N 0800V1600 BR FEW000 GRID E 0800 CLN AIR 02010KT SDG/HDP
+14 0350 FEW000 SCT006 BKN010        1600 IC BR                    -22.3 010 08   692.5 2899  VIS GRID N 3200 GRID S 2400 BR FEW000 CLN AIR 02008KT SDG/HDP
+14 0415 SCT006 BKN010               8000 IC                       -22.8 010 08   692.6 2900  CLN AIR 02007KT SDG/HDF
+14 0450 BKN006 BKN010               2400 IC                       -22.0 010 10   692.7 2900  CLN AIR 02009KT SDG/HDF
+14 0515 BKN006 BKN010 BKN050        3200 IC BR                    -22.3 020 08   692.7 2900  CLN AIR 02009KT SDG/HDF
+14 0535 SCT006 BKN010 BKN050        4800 IC BR                    -22.4 010 08   692.7 2900  CLN AIR 01007KT SDG/HDF
+14 0550 SCT006 BKN010 BKN050        6000 IC BR                    -22.4 010 09   692.8 2900  CLN AIR 01008KT SDG/HDF
+14 0650                                                           -22.0 350 08   692.9 2901  
+14 0750                                                           -22.4 360 05   693.0 2901  
+14 0850                                                           -22.6 010 07   693.1 2902  
+14 0950                                                           -22.1 360 08   693.1 2902  
+14 1050                                                           -22.4 010 08   693.3 2903  
+14 1150 OVC040                      6000 IC BR                    -23.1 020 08   693.5 2903  CLN AIR 02007KT SDG/HDF
+14 1250                                                           -22.3 010 09   693.5 2903  
+14 1350 OVC040                      6000 -SG BR                   -21.6 360 10   693.6 2904  CLN AIR 01009KT SDF/HDP
+14 1450 OVC040                      4800 -SG BR                   -21.2 010 10   693.4 2903  CLN AIR 01011KT SDF/HDP
+14 1550 OVC044                      4800 -SG BR                   -21.1 360 11   693.4 2903  CLN AIR 01012KT SDF/HDP
+14 1650 OVC048                      4800 -SG BR                   -21.0 360 10   693.5 2903  CLN AIR 01010KT SDG/HDP
+14 1750 BKN055 BKN120               8000 IC                       -20.7 010 09   693.6 2904  CLN AIR 01008KT SDG/HDF
+14 1850 FEW010 SCT030 BKN060        9000 IC BR                    -22.3 010 06   693.7 2904  CLN AIR 02008KT SDG/HDG
+14 1950 FEW010 SCT040 BKN060        9000 IC BR                    -22.6 020 08   693.7 2904  CLN AIR 03008KT SDG/HDG
+14 2050 FEW010 SCT040 BKN060        9999 IC                       -23.1 040 06   693.5 2903  CLN AIR 04008KT SDG/HDG
+14 2150 FEW010 SCT040 BKN060        9999 IC VCFG                  -23.3 070 06   693.4 2903  VCFG GRID N CLN AIR 04007KT SDG/HDG
+14 2225 FEW010 BKN040               3200 IC BR                    -22.0 020 09   693.3 2902  CLN AIR 02010KT SDG/HDP
+14 2250 FEW010 BKN040               3200 IC BR                    -22.4 020 09   693.3 2902  CLN AIR 02008KT SDF/HDP
+14 2350 FEW010 BKN040               4800 IC BR                    -22.2 020 10   693.2 2902  CLN AIR 03011KT SDF/HDP
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+15 0030 SCT008 BKN040               6000 -SG BR                   -21.9 030 09   693.0 2901  CLN AIR 03012KT SDF/HDP
+15 0050 BKN008 BKN040               3200 -SG BR                   -22.2 020 10   693.0 2901  CLN AIR 03010KT SDF/HDP
+15 0115 SCT008 BKN040               3200 IC BR                    -23.0 030 08   692.9 2901  CLN AIR 03009KT SDG/HDF
+15 0135 SCT008 SCT040               6000 IC BR                    -23.5 040 07   692.8 2901  CLN AIR 04008KT SDG/HDG
+15 0150 SCT008 SCT040               8000 IC BR                    -23.5 040 07   692.7 2900  CLN AIR 07007KT SDG/HDG
+15 0250 FEW008 FEW040               9999                          -24.3 070 05   692.3 2899  CLN AIR 06010KT SDG/HDG
+15 0350 FEW008 SCT040               9999                          -24.0 060 08   691.8 2897  CLN AIR 06012KT SDG/HDG
+15 0450 FEW006 BKN010 BKN040        9999                          -24.3 080 07   691.6 2896  CLN AIR 07010KT SDG/HDG
+15 0540 FEW006 SCT010 SCT040        9999 IC                       -24.1 070 09   691.3 2894  CLN AIR 08010KT SDG/HDG
+15 0550 FEW006 SCT010 SCT040        9999 IC                       -24.3 070 09   691.2 2894  CLN AIR 07011KT SDG/HDG
+15 0650 FEW010 FEW040               9999 IC                       -24.7 070 10   690.8 2893  CLN AIR 07012KT SDG/HDG
+15 0750 FEW010 FEW040               9999 IC                       -25.4 070 11   690.4 2891  CLN AIR 07012KT SDG/HDG
+15 0850 FEW010 FEW040               9999 IC                       -25.0 050 11   689.9 2889  CLN AIR 06013KT SDG/HDG
+15 0950 FEW040                      9999                          -25.2 070 10   689.6 2888  CLN AIR 06013KT SDG/HDG
+15 1050 FEW040                      9999                          -25.3 060 11   690.2 2887  CLN AIR 06011KT SDG/HDG
+15 1150 SCT160                      9999                          -25.3 050 10   689.1 2886  CLN AIR 06009KT SDG/HDG
+15 1250 BKN160                      9999                          -24.8 050 11   688.8 2885  CLN AIR 05011KT SDG/HDG
+15 1350 SCT160                      9999                          -25.0 050 09   688.5 2884  CLN AIR 05012KT SDG/HDG
+15 1450 FEW025 FEW160               9999                          -25.1 060 10   688.1 2882  CLN AIR 06010KT SDG/HDG
+15 1550 FEW025                      9999                          -24.9 050 10   687.6 2880  CLN AIR 06011KT SDG/HDG
+15 1650 FEW025 FEW050               9999                          -24.7 060 11   687.4 2879  CLN AIR 06011KT SDG/HDG
+15 1750 FEW050                      9999                          -24.6 060 10   687.2 2879  CLN AIR 06012KT SDG/HDG
+15 1850 FEW050                      9999                          -24.5 060 11   687.0 2878  CLN AIR 07011KT SDG/HDG
+15 1950 FEW050                      9999 DRSN                     -24.7 060 12   686.8 2877  CLN AIR 06012KT SDG/HDG
+15 2050 FEW050                      9999 DRSN                     -24.8 060 11   686.7 2877  CLN AIR 06012KT SDG/HDG
+15 2150 FEW050                      9999 DRSN                     -24.7 060 12G17686.3 2875  CLN AIR 06010KT SDG/HDG
+15 2250 FEW050                      9999 DRSN                     -24.7 060 12   686.1 2874  CLN AIR 06012G17KT SDG/HDG
+15 2350 FEW050 FEW100               9999 DRSN                     -24.5 060 12G16686.1 2874  CLN AIR 06013KT SDG/HDG
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+16 0050 FEW100                      9999 DRSN                     -24.9 050 11   686.0 2874  CLN AIR 06012KT SDG/HDG
+16 0150 FEW010 SCT100               9999 DRSN                     -24.7 050 12   685.9 2873  CLN AIR 06012KT SDG/HDG
+16 0250 FEW010 SCT100               9999                          -25.0 050 11   685.9 2874  CLN AIR 05012KT HDF GRID NW SDG/HDG
+16 0345 BKN013                      6000 BR                       -24.8 050 11   685.7 2873  VIS GRID NW 3200 CLN AIR 04012KT SDG/HDF
+16 0350 BKN013                      3200 BR                       -24.8 040 12G16685.7 2873  CLN AIR 04012KT SDG/HDF
+16 0450 OVC013                      3200 BR                       -23.1 030 13G17685.7 2873  CLN AIR 04014G20KT SDF/HDN
+16 0550 BKN026                      6000 BR                       -24.0 020 13   685.8 2873  CLN AIR 03012KT SDF/HDF
+16 0650                                                           -24.1 030 11   685.9 2873  
+16 0750                                                           -23.5 020 14   686.0 2874  
+16 0850                                                           -23.8 010 13   686.1 2874  
+16 0950                                                           -24.0 010 11   686.0 2874  
+16 1050                                                           -23.9 030 09   686.1 2874  
+16 1150 BKN020 BKN035               8000 -SG                      -24.3 020 11   686.1 2874  CLN AIR 03010KT SDF/HDF
+16 1250                                                           -23.7 010 11   686.2 2875  
+16 1350                                                           -23.4 020 10   686.1 2874  
+16 1450 BKN020 OVC038               8000 BR                       -23.1 030 09   686.0 2874  CLN AIR 03010KT SDF/HDP
+16 1550 BKN019 OVC026               6000 -SG BR                   -23.1 030 10   685.9 2873  CLN AIR 03010KT SDF/HDP
+16 1650 SCT018 BKN030               8000 BR                       -22.8 010 11   685.8 2873  CLN AIR 01010KT SDF/HDF
+16 1750 FEW018 OVC027               4800 -SG BR                   -24.0 340 11   686.0 2874  CLN AIR 35011KT SDF/HDN
+16 1850 SCT015 OVC025               4800 -SG BR                   -24.5 340 11   686.2 2875  VIS GRID E 3200 CLN AIR 35012KT SDP/HDP
+16 1950                                                           -25.2 330 12   686.4 2875  
+16 2050                                                           -25.6 350 11   686.5 2876  
+16 2150                                                           -25.9 360 08   686.5 2876  
+16 2250                                                           -25.8 340 10   686.6 2876  
+16 2350 SCT000 BKN025               3200 -SG BR                   -25.7 020 09   686.6 2876  BR SCT000 CLN AIR 03008KT SDF/HDP
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+17 0050 FEW000 FEW015 BKN030        4800 IC BR                    -26.7 020 08   686.6 2876  BR FEW000 CLN AIR 02007KT SDG/HDP
+17 0150                                                           -27.7 350 06   686.9 2877  
+17 0250                                                           -28.4 330 07   686.9 2878  
+17 0350 FEW005 BKN030               9999                          -27.9 320 04   686.9 2877  CLN AIR 31004KT SDG/HDF
+17 0450                                                           -27.2 010 04   687.0 2878  
+17 0550 FEW009 BKN039               4800 IC BR                    -27.3 050 04   687.2 2879  VIS GRID N 3200 W 3200 CLN AIR 05004KT SDG/HDF
+17 0650 FEW006 SCT039               6000 IC                       -27.5 050 07   687.4 2879  CLN AIR 05008KT SDG/HDF
+17 0750                                                           -28.3 350 10   687.5 2880  
+17 0850                                                           -26.8 350 05   687.7 2881  
+17 0950                                                           -26.4 350 08   687.7 2881  
+17 1050                                                           -27.8 010 09   687.9 2881  
+17 1150 BKN045 BKN055               9999 IC                       -27.6 010 10   688.0 2882  CLN AIR 01009KT SDG/HDG
+17 1250                                                           -28.1 360 09   688.2 2883  
+17 1350                                                           -26.7 010 11   688.2 2882  
+17 1450 BKN010 BKN040               1600 -SG BLSN                 -26.6 010 13   688.2 2882  VIS 1600V2400 CLN AIR 01012KT SDF/HDN
+17 1550 BKN010 BKN028 OVC040        2400 -SG BLSN                 -26.5 360 11   688.1 2882  VIS 2400V3200 CLN AIR 36012KT SDF/HDN SDF/HDN
+17 1650 SCT010 BKN024 OVC040        3200 IC BLSN                  -25.7 340 13   688.1 2882  CLN AIR 35012G18KT SDF/HDN
+17 1748 BKN024 OVC040               2400 IC BLSN                  -26.2 350 13   688.2 2882  VIS 1600V3200 CLN AIR 35012KT SDF/HDN
+17 1750 BKN024 OVC035               2400 IC BLSN                  -26.1 350 13   688.2 2882  VIS 1600V3200 CLN AIR 35013KT SDF/HDN
+17 1850 SCT010 BKN035 BKN045        3200 IC BLSN BR               -26.1 340 13   688.4 2883  CLN AIR 35012KT SDG/HDP
+17 1920 FEW000 SCT010 BKN035 OVC045 1600 IC BLSN BR               -26.1 330 13   688.5 2884  BR FEW000 CLN AIR 34012G16KT SDG/HDP
+17 1950 SCT010 BKN035 OVC045        2400 IC BLSN BR               -26.3 330 12   688.7 2885  CLN AIR 33012KT SDG/HDP
+17 2050 FEW000 SCT010 BKN035 BKN045 2400 IC BR DRSN               -26.4 340 11   688.9 2885  BR FEW000 CLN AIR 34009KT SDG/HDF
+17 2150 FEW000 SCT010 BKN035 BKN045 2400 IC BR DRSN               -26.9 340 09   689.0 2886  BR FEW000 CLN AIR 35007KT SDG/HDP
+17 2215 BKN010 BKN045               3200 BR                       -26.4 340 10   689.1 2886  CLN AIR 34009KT SDF/HDP
+17 2230 BKN010 OVC045               2400 -SG BR                   -26.3 340 09   689.0 2886  CLN AIR 35008KT SDF/HDP
+17 2250 BKN010 BKN045               3200 -SG BR                   -26.7 350 09   689.1 2886  CLN AIR 35006KT SDF/HDF
+17 2330 SCT010 BKN045 BKN100        4800 IC BR                    -28.2 020 06   689.0 2886  VIS GRID N 3200 CLN AIR 02006KT SDG/HDP
+17 2350 SCT010 SCT030 BKN045 BKN100 6000 IC BR                    -28.0 010 08   689.1 2886  CLN AIR 02007KT SDG/HDF
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+18 0005 BKN010 BKN030 BKN045        2400 -SG IC BR                -28.3 020 07   689.1 2886  VIS GRID S 3200 CLN AIR 02007KT SDG/HDP
+18 0030 SCT010 BKN030 BKN045        3200 IC BR                    -28.3 010 07   689.2 2886  CLN AIR 02007KT SDG/HDF
+18 0050 SCT010 BKN030 BKN060        4000 IC BR                    -28.2 010 07   689.3 2887  CLN AIR 02008KT SDG/HDF
+18 0120 SCT010 BKN030 BKN060        6000 IC BR                    -28.0 010 09   689.2 2887  CLN AIR 01009KT SDG/HDF
+18 0150 FEW010 SCT030 BKN050        4800 IC BR                    -28.7 010 09   689.2 2887  CLN AIR 02008KT SDG/HDF
+18 0250 FEW005 OVC025               2400 BR                       -26.9 010 08   689.0 2886  VIS GRID S 3200 CLN AIR 01009KT SDF/HDF
+18 0350                                                           -26.8 360 09   688.7 2885  
+18 0450 BKN026                      3200 IC BR                    -27.9 360 09   688.7 2884  VIS GRD N-E 1600 CLN AIR 36008KT SDG/HDP
+18 0550 FEW006 BKN026               3200 IC BR                    -29.0 350 09   688.8 2885  VIS GRID N-E 2400 CLN AIR 35007KT SDG/HDF
+18 0650                                                           -28.3 350 08   688.8 2885  
+18 0750                                                           -28.9 360 09   688.8 2885  
+18 0850                                                           -29.2 010 09   688.8 2885  
+18 0950                                                           -28.1 010 10   688.6 2884  
+18 1050                                                           -27.3 350 10   688.3 2883  
+18 1150 SCT006 BKN012 OVC020        3200 IC BR                    -27.6 360 10   688.2 2882  VIS 2400V4800 CLN AIR 36010KT SDF/HDP
+18 1250                                                           -27.4 360 10   688.1 2882  
+18 1350 BKN009 BKN020               2400 IC BR                    -27.7 010 08   688.0 2882  VIS 1600V3200 CLN AIR 01010KT SDF/HDP
+18 1450 BKN009 OVC020               2000 IC BR                    -27.6 010 10   687.9 2881  VIS 1600V2400 CLN AIR 01009KT SDF/HDP
+18 1550 SCT009 BKN020               3600 IC BR                    -28.1 030 08   687.7 2881  VIS GRID N 8000 CLN AIR 03008KT SDG/HDF
+18 1650 FEW009 BKN015               2400 IC BR                    -28.0 030 10   687.6 2880  VIS GRID N 6000 CLN AIR 04010KT SDG/HDP
+18 1750 FEW009 BKN015               4800 BR                       -28.0 030 07   687.3 2879  VIS GRID N 9999 CLN AIR 04007KT SDG/HDP
+18 1850 FEW009 BKN015 BKN060        9999                          -28.5 050 05   687.1 2878  CLN AIR 07007KT SDG/HDG
+18 1935 SCT015 BKN060               9999                          -28.7 060 06   686.9 2877  CLN AIR 07007KT SDG/HDG
+18 1950 SCT015 BKN060               9999                          -28.8 070 06   686.8 2877  CLN AIR 07006KT SDG/HDG
+18 2050 FEW015 FEW060               9999                          -29.6 070 06   686.7 2876  CLN AIR 08007KT SDG/HDG
+18 2150 FEW015 FEW060               9999                          -29.7 090 06   686.3 2875  CLN AIR 09007KT SDG/HDG
+18 2250 FEW015 FEW060               9999                          -29.5 110 06   686.0 2874  CLN AIR 10006KT SDG/HDG
+18 2350 FEW015 FEW060               9999                          -29.9 110 08   685.7 2873  CLN AIR 11008KT SDG/HDG
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+19 0050 FEW015 FEW060               9999                          -30.3 110 08   685.5 2872  CLN AIR 11006KT SDG/HDG
+19 0150 FEW015 FEW060               9999                          -30.6 110 08   685.3 2871  CLN AIR 11006KT SDG/HDG
+19 0250 FEW015 FEW060               9999                          -30.8 100 04   685.0 2870  CLN AIR 10006KT SDG/HDG
+19 0350 FEW015 FEW060               9999                          -30.2 100 03   684.7 2869  CLN AIR 09004KT SDG/HDG
+19 0450 FEW015 FEW060               9999                          -30.9 080 06   684.5 2868  CLN AIR 08007KT SDG/HDG
+19 0550 FEW015 FEW060               9999                          -30.9 080 03   684.5 2868  CLN AIR 07007KT SDG/HDG
+19 0650                                                           -30.2 070 03   684.5 2868  
+19 0750                                                           -28.0 040 05   684.5 2868  
+19 0850                                                           -27.5 350 04   684.5 2868  
+19 0950                                                           -25.9 020 03   684.5 2868  
+19 1050                                                           -26.1 040 06   684.6 2868  
+19 1150 OVC009                      9999                          -26.2 020 08   684.7 2869  CLN AIR 02010KT SDG/HDG
+19 1250                                                           -26.6 010 09   684.8 2869  
+19 1350                                                           -26.6 010 09   685.0 2870  
+19 1450                                                           -26.9 010 10   685.0 2870  
+19 1550                                                           -27.2 360 10   685.1 2870  
+19 1650                                                           -27.4 350 12   685.3 2871  
+19 1750 OVC010                      2400 BR                       -27.8 330 11   685.7 2873  CLN AIR 34012KT SDF/HDN
+19 1850                                                           -28.3 340 10   686.1 2874  
+19 1950                                                           -28.2 330 11   686.6 2876  
+19 2050                                                           -28.5 320 09   687.0 2878  
+19 2150                                                           -27.4 330 14   687.4 2879  
+19 2250                                                           -27.4 330 15   687.8 2881  
+19 2350 OVC010                      1600 BLSN BR                  -26.5 320 16   688.1 2882  CLN AIR 33015G20KT SDP/HDN
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+20 0050                                                           -26.2 340 13   688.5 2884  
+20 0150                                                           -25.7 340 13   688.5 2884  
+20 0250                                                           -25.7 340 14   688.7 2885  
+20 0350                                                           -25.5 350 12   688.8 2885  
+20 0450                                                           -25.6 350 16G20689.0 2886  
+20 0550 BKN020                      8000 BR                       -25.7 010 12   689.0 2886  CLN AIR 01013G19KT SDG/HDF
+20 0650                                                           -25.7 360 11   688.9 2885  
+20 0750                                                           -24.8 360 10   689.1 2886  
+20 0850                                                           -23.7 360 11   689.1 2886  
+20 0950                                                           -23.3 020 13   689.1 2886  
+20 1050                                                           -22.7 020 14   689.0 2886  
+20 1150 BKN010 OVC050               1600 IC BLSN                  -22.4 020 16   688.9 2885  CLN AIR 02014G21KT SDF/HDP
+20 1250                                                           -23.6 020 14G23688.6 2884  
+20 1350                                                           -24.2 020 16G23688.3 2883  
+20 1450                                                           -24.1 030 16G23687.8 2881  
+20 1550 SCT010 BKN050 BKN120        1600 BLSN BR                  -24.2 020 22G29687.3 2879  PK WND 02031/31 VIS 1200V2400 CLN AIR 02021G29KT SDP/HDN
+20 1606 SCT000 OVC006               1200 BLSN BR                  -23.6 020 22G29687.2 2879  VIS 0800V1600 BLSN SCT000 CLN AIR 02021G30KT SDP/HDN
+20 1650 BKN000 OVC006               0800 -SG BLSN FG              -23.0 010 20G29687.0 2879  PK WND 01031/19 BLSN BKN000 CLN AIR 02019G30KT SDP/HDN
+20 1750 VV002                       0800 -SG BLSN FG              -22.7 010 20G27687.2 2879  PK WND 36029/22 CLN AIR 01019G28KT SDP/HDN
+20 1850                                                           -22.6 360 19G25687.3 2879  
+20 1950                                                           -22.6 010 13G21687.5 2880  
+20 2050                                                           -22.2 350 17G23687.5 2879  
+20 2150                                                           -21.6 350 17G22687.5 2880  
+20 2250                                                           -21.1 350 16G22687.7 2881  
+20 2350 VV002                       1600 -SG BLSN BR              -20.6 350 15   688.0 2882  PK WND 35027/1851 CLN AIR 36013G19KT SDN/HDN
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+21 0050                                                           -19.7 340 13G17688.1 2882  
+21 0150                                                           -18.8 330 13G20688.5 2884  
+21 0250                                                           -18.3 330 11   688.9 2885  
+21 0350                                                           -17.8 320 13   689.1 2886  
+21 0450                                                           -17.9 330 10   689.5 2887  
+21 0550 OVC003                      2400 -SG BR                   -17.9 330 09   689.7 2888  VIS GRID E 1600 GRID W 1600 CLN AIR 33009KT SDP/HDN
+21 0650                                                           -17.7 330 08   690.1 2890  
+21 0750                                                           -17.8 350 08   690.4 2891  
+21 0850                                                           -17.9 360 08   690.6 2892  
+21 0950                                                           -17.6 350 08   690.7 2892  
+21 1050                                                           -17.7 330 06   691.1 2894  
+21 1150 SCT003 OVC045               4800 -SG BR                   -17.6 330 08   691.1 2894  VIS GRID NW-N 8000 CLN AIR 33006KT SDF/HDP
+21 1250                                                           -17.7 320 03   691.4 2895  
+21 1350                                                           -17.2 350 03   691.8 2896  
+21 1450                                                           -18.3 350 04   691.8 2897  
+21 1550 FEW002 BKN009 OVC045        4800 -SG BR                   -18.5 000 00   691.9 2897  CLN AIR 02006KT SDF/HDP
+21 1639 SCT002 OVC009               2400 -SG BR                   -18.5 010 06   692.1 2898  VIS GRID W 4800 CLN AIR 02005KT SDF/HDP
+21 1650 SCT002 OVC009               2400 -SG BR                   -18.3 010 04   692.1 2898  CLN AIR 02004KT SDP/HDN
+21 1717 FEW002 BKN009 OVC040        3200 -SG BR                   -18.1 010 04   692.1 2898  VIS GRID W 4800 CLN AIR 01005KT SDF/HDP
+21 1750 SCT009 OVC035               6000 -SG BR                   -17.8 020 04   692.3 2898  CLN AIR 01006KT SDF/HDF
+21 1850 SCT009 OVC030               6000 -SG BR                   -16.8 000 00   692.3 2899  CLN AIR 09003KT SDF/HDF
+21 1930 SCT010 BKN030 OVC070        3200 -SG BR                   -17.4 050 04   692.4 2899  CLN AIR 05005KT SDF/HDG
+21 1950 BKN010 BKN030 OVC070        3200 -SG BR                   -17.9 040 05   692.5 2899  CLN AIR 05006KT SDF/HDF
+21 2025 SCT010 BKN030               4800 -SG BR                   -18.8 040 04   692.5 2900  CLN AIR 05005KT SDF/HDP
+21 2050 SCT010 BKN030 OVC070        4800 -SG BR                   -18.3 000 00   692.5 2899  CLN AIR 09004KT SDF/HDF
+21 2150 SCT010 BKN030 OVC070        4800 -SG IC BR                -19.7 070 05   692.6 2900  CLN AIR 07006KT SDG/HDG
+21 2250                                                           -19.9 080 05   692.6 2900  
+21 2350 SCT010 SCT030 BKN060        6000 IC BR                    -19.7 090 07   692.5 2899  CLN AIR 10006KT SDG/HDG
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+22 0050 FEW010 FEW030 BKN060        8000 BR                       -19.9 070 07   692.3 2898  CLN AIR 07008KT SDG/HDG
+22 0150                                                           -20.7 090 06   692.2 2898  
+22 0250 OVC006                      6000 BR                       -19.3 070 06   692.1 2898  CLN AIR 07007KT SDF/HDF
+22 0350                                                           -20.3 100 05   691.9 2897  
+22 0450                                                           -21.1 110 07   691.7 2896  
+22 0550 BKN020 BKN070               9999 IC                       -21.4 090 08   691.5 2895  CLN AIR 10008KT SDG/HDG
+22 0650                                                           -21.0 080 08   691.5 2895  
+22 0750 BKN010 OVC150               4800 -SG IC                   -21.0 080 08   691.4 2895  CLN AIR 08008KT SDG/HDF
+22 0850 BKN010 OVC070               4800 -SG                      -21.0 100 06   691.4 2895  CLN AIR 08008KT SDG/HDF
+22 0950 SCT010 OVC070               4800 -SG                      -20.1 080 05   691.3 2895  CLN AIR 08005KT SDG/HDF
+22 1038 BKN012 BKN070 OVC120        6000 BR                       -20.7 100 08   691.0 2894  CLN AIR 09007KT SDG/HDF
+22 1050 BKN012 BKN070 OVC120        4800 -SG BR                   -20.6 080 08   690.9 2893  CLN AIR 08008KT SDG/HDF
+22 1150 BKN012 BKN070 OVC120        4800 -SG BR                   -20.9 090 07   690.9 2893  CLN AIR 08007KT SDG/HDP
+22 1250 BKN012 BKN070 OVC120        4000 -SG BR                   -19.9 080 08   690.6 2892  CLN AIR 08007KT SDG/HDP
+22 1330 SCT012 BKN070 OVC120        6000 IC BR                    -20.1 070 07   690.3 2891  CLN AIR 08006KT SDG/HDF
+22 1350 SCT012 BKN070 BKN120        6000 IC BR                    -20.4 080 07   690.3 2891  CLN AIR 09006KT SDG/HDF
+22 1450 SCT012 BKN070 BKN120        6000 IC BR                    -21.7 070 07   690.3 2890  CLN AIR 07007KT SDG/HDF
+22 1550 SCT010 BKN070               6000 BR                       -22.3 070 04   690.2 2890  CLN AIR 10006KT SDG/HDF
+22 1650 SCT010 OVC070               4800 -SG BR                   -21.9 060 06   689.8 2889  CLN AIR 05007KT SDG/HDF
+22 1750 SCT010 BKN070               6000 -SG BR                   -22.2 080 06   689.7 2888  CLN AIR 07007KT SDG/HDF
+22 1850                                                           -22.3 070 06   689.6 2888  
+22 1950 SCT010 OVC050               3200 -SG IC BR                -21.3 060 07   689.4 2887  CLN AIR 07006KT SDG/HDF
+22 2050 SCT012 OVC070               3200 -SG BR                   -21.2 070 06   689.3 2887  CLN AIR 07006KT SDF/HDP
+22 2118 BKN012 OVC070               3200 -SG BR                   -20.9 070 06   689.2 2886  CLN AIR 07008KT SDF/HDP
+22 2150                                                           -20.6 070 07   688.9 2885  
+22 2250 BKN012 BKN070               3200 -SG BR                   -21.3 050 07   688.6 2884  CLN AIR 06008KT SDG/HDF
+22 2350 SCT012 BKN070               6000 -SG IC BR                -22.5 070 07   688.3 2883  CLN AIR 07008KT SDG/HDF
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+23 0050 FEW012 BKN070               6000 IC BR                    -24.2 070 09   688.0 2882  CLN AIR 08009KT SDG/HDG
+23 0150 FEW015 BKN070               8000 IC BR                    -24.1 060 06   687.6 2880  CLN AIR 08008KT SDG/HDG
+23 0250                                                           -25.5 080 07   687.2 2879  
+23 0350                                                           -24.0 090 07   686.8 2877  
+23 0450 SCT000 SCT009 OVC016        3200 IC -SG BR                -22.3 080 09   686.5 2876  BR SCT000 CLN AIR 08009KT SDF/HDP
+23 0550 SCT016 OVC100               4800 IC BR                    -24.6 090 10   686.3 2875  CLN AIR 09009KT SDG/HDF
+23 0650                                                           -23.7 100 09   686.0 2874  
+23 0750 FEW026 BKN090               9999 IC                       -24.5 090 12   685.6 2872  CLN AIR 09013KT SDG/HDG
+23 0850                                                           -23.7 090 13   685.4 2872  
+23 0950 FEW025 BKN080               9999                          -24.5 090 14   685.2 2871  CLN AIR 10014G20KT SDG/HDG
+23 1050 FEW015 BKN075               9999                          -24.5 100 13   695.1 2870  CLN AIR 11012G17KT SDG/HDG
+23 1150 FEW015 OVC060               9999                          -24.1 110 12   684.9 2869  CLN AIR 11012KT SDG/HDF
+23 1250 FEW015 OVC060               9999                          -24.5 110 13G18684.5 2868  CLN AIR 11014G21KT SDG/HDF
+23 1350 FEW015 BKN055               9999                          -26.8 120 12   684.2 2867  CLN AIR 12015G19KT SDG/HDG
+23 1450 FEW015 SCT055               9999                          -27.5 130 12   684.0 2866  CLN AIR 12012KT SDG/HDG
+23 1550 FEW015 SCT055               9999                          -28.1 120 12   683.7 2865  CLN AIR 12014G19KT SDG/HDG
+23 1650 FEW055                      9999                          -28.5 110 11   683.7 2865  CLN AIR 11010KT SDG/HDG
+23 1750 FEW055                      9999                          -28.7 110 11   683.5 2864  CLN AIR 11012G18KT SDG/HDG
+23 1850 FEW055                      9999                          -28.6 120 14G18683.2 2863  CLN AIR 12015KT SDG/HDG
+23 1950 FEW055                      9999                          -28.3 120 14   683.0 2862  CLN AIR 13015KT SDG/HDG
+23 2050 FEW055                      9999                          -28.6 120 14   682.9 2862  CLN AIR 12017KT SDG/HDG
+23 2150 FEW055                      9999 IC                       -28.8 130 12G17682.8 2861  CLN AIR 14015KT SDG/HDG
+23 2250 FEW000                      6000 IC BLSN                  -29.1 130 16G22682.1 2859  BLSN FEW000 CLN AIR 14004KT SDG/HDF
+23 2350 FEW000                      6000 IC BLSN                  -29.6 130 17G22681.4 2856  BLSN FEW000 CLN AIR 13016KT SDG/HDF
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+24 0050 FEW000                      8000 IC BLSN                  -29.7 130 16G22681.0 2854  BLSN FEW000 CLN AIR 12018KT SDG/HDG
+24 0150 FEW000                      9000 BLSN                     -29.8 120 15G20681.7 2853  BLSN FEW000 CLN AIR 12018KT SDG/HDG
+24 0250 FEW000                      9000 BLSN                     -30.0 130 19G23680.1 2851  BLSN FEW000 CLN AIR 13014G20KT SDG/HDG
+24 0350 FEW000                      6000 BLSN                     -30.0 130 18G22679.7 2849  BLSN FEW000 CLN AIR 12014G21KT SDG/HDG
+24 0450                                                           -30.2 140 18G25679.3 2847  
+24 0550 FEW000                      6000 BLSN                     -30.4 140 18G24678.8 2845  BLSN FEW000 CLN AIR 14015G23KT SDG/HDG
+24 0650                                                           -30.4 140 18G24678.1 2843  
+24 0750                                                           -30.6 140 17G23677.6 2841  
+24 0850                                                           -30.5 140 19G26677.0 2838  
+24 0950                                                           -30.4 140 21G28676.5 2836  
+24 1050                                                           -30.5 140 19G27675.9 2834  
+24 1150 FEW000 FEW050               3200 BLSN                     -30.5 140 17G24675.2 2831  PK WND 14028/0948 BLSN FEW000 CLN AIR 13018G26KT SDG/HDF
+24 1250                                                           -30.4 130 19G25674.5 2829  
+24 1350                                                           -30.4 130 17G24674.1 2827  
+24 1450                                                           -30.5 130 18G25673.6 2825  
+24 1550 FEW000                      3200 BLSN                     -30.7 130 14G21673.2 2824  PK WND 13026/1335 BLSN FEW000 CLN AIR 13004KT SDG/HDG
+24 1650 FEW000                      3200 BLSN                     -30.9 140 18G23672.8 2822  BLSN FEW000 CLN AIR 13013KT SDG/HDG
+24 1750 FEW000                      3200 BLSN                     -31.0 140 17G24672.4 2820  BLSN FEW000 CLN AIR 13018KT SDG/HDG
+24 1850 FEW000                      3200 BLSN                     -31.0 130 18G25672.0 2819  BLSN FEW000 CLN AIR 12020KT SDG/HDF
+24 1950 FEW000                      3200 BLSN                     -31.1 130 18G23671.8 2818  BLSN FEW000 CLN AIR 14019KT SDG/HDG
+24 2050 FEW000 FEW050               3200 BLSN                     -31.1 130 17G24671.6 2817  BLSN FEW000 CLN AIR 13015KT SDG/HDG
+24 2150 FEW000 FEW005               3200 BLSN                     -31.1 130 16G22671.4 2817  BLSN FEW000 CLN AIR 12017KT SDG/HDF
+24 2250 FEW000 FEW005               3200 BLSN                     -31.2 130 16G21671.3 2816  BLSN FEW000 CLN AIR 12015KT SDG/HDF
+24 2350 FEW000 FEW005               3200 BLSN                     -31.2 130 14G19671.2 2816  BLSN FEW000 CLN AIR 11016KT SDG/HDF
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+25 0050 FEW000 FEW005               3200 BLSN                     -31.2 130 13   671.1 2816  BLSN FEW000 CLN AIR 11004KT SDG/HDF
+25 0133 FEW005 FEW050               6000 BR                       -31.3 130 14   671.1 2815  CLN AIR 13010KT SDG/HDG
+25 0150 FEW005 FEW050               8000 BR                       -31.4 130 13   671.0 2815  CLN AIR 13013KT SDG/HDG
+25 0250 FEW005 FEW050               9999                          -31.5 120 11   670.9 2815  CLN AIR 12012KT SDG/HDG
+25 0350 FEW005 FEW050               9999                          -31.6 120 12   670.9 2815  CLN AIR 12012KT SDG/HDG
+25 0450 FEW005 FEW050               9999                          -31.7 120 13   670.9 2815  CLN AIR 12013KT SDG/HDG
+25 0550 FEW005 FEW050               9999                          -31.8 120 11   671.0 2815  CLN AIR 12011KT SDG/HDG
+25 0650                                                           -31.4 120 12   671.2 2816  
+25 0750                                                           -31.1 100 09   671.4 2816  
+25 0850                                                           -30.1 100 08   671.7 2818  
+25 0950                                                           -27.9 090 07   671.8 2818  
+25 1050                                                           -26.7 070 06   672.0 2819  
+25 1150 OVC012                      9999                          -26.5 070 10   672.3 2820  CLN AIR 07008KT SDF/HDF
+25 1250                                                           -27.0 050 09   672.6 2822  
+25 1350                                                           -27.7 050 09   673.0 2823  
+25 1450                                                           -28.8 060 07   673.3 2824  
+25 1550 BKN012                      9999                          -29.1 040 09   673.6 2825  CLN AIR 05009KT SDG/HDG
+25 1650 SCT011                      9999                          -29.2 040 06   674.0 2827  SCT011 V BKN CLN AIR 06007KT SDG/HDG
+25 1723 BKN012                      9999                          -29.8 050 09   674.3 2828  CLN AIR 06008KT SDG/HDG
+25 1750 SCT012                      9999                          -30.2 060 08   674.4 2828  CLN AIR 06008KT SDG/HDG
+25 1850 BKN012                      9999                          -30.4 060 08   674.9 2830  CLN AIR 07009KT SDG/HDG
+25 1950 BKN015                      9999                          -30.5 060 08   675.2 2832  CLN AIR 05010KT SDG/HDG
+25 2050 OVC012                      9999                          -30.9 020 10   675.7 2834  CLN AIR 02011KT SDG/HDG
+25 2150 BKN010                      9999                          -31.0 030 07   676.4 2836  CLN AIR 04007KT SDG/HDG
+25 2250 FEW005 BKN010               4800 IC BR                    -30.6 040 06   676.9 2838  CLN AIR 04008KT SDG/HDG
+25 2350 FEW005 BKN010               6000 IC BR                    -30.7 040 08   677.1 2839  CLN AIR 05008KT SDG/HDG
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+26 0035 FEW005 SCT015               9999 IC                       -31.2 050 08   677.3 2840  CLN AIR 06008KT SDG/HDG
+26 0050 FEW005 SCT015               9999 IC                       -31.4 050 06   677.5 2840  CLN AIR 06007KT SDG/HDG
+26 0150 FEW005 FEW015               9999                          -31.9 060 07   677.7 2841  CLN AIR 06008KT SDG/HDG
+26 0250 FEW005 FEW015 SCT035        9999                          -32.1 070 08   677.9 2842  CLN AIR 07008KT SDG/HDG
+26 0350                                                           -32.2 060 06   678.1 2843  
+26 0450                                                           -32.5 070 07   678.3 2844  
+26 0550 FEW015 FEW020               9999                          -32.6 070 07   678.6 2845  CLN AIR 07007KT SDG/HDG
+26 0650                                                           -32.7 070 08   678.7 2845  
+26 0750                                                           -33.0 080 08   678.6 2845  
+26 0850                                                           -32.7 070 08   678.7 2845  
+26 0950                                                           -32.6 070 08   678.8 2845  
+26 1050                                                           -32.4 070 09   678.8 2846  
+26 1150 SKC                         9999                          -32.3 070 09   678.9 2846  CLN AIR 07009KT SDG/HDG
+26 1250                                                           -32.8 090 09   678.9 2846  
+26 1350                                                           -32.7 080 09   678.8 2846  
+26 1450                                                           -32.8 090 09   678.8 2845  
+26 1550                                                           -33.0 090 12   678.5 2845  
+26 1650                                                           -33.1 090 10   678.5 2844  
+26 1750 SKC                         9999                          -33.1 100 11   678.3 2844  CLN AIR 09011KT SDG/HDG
+26 1850                                                           -33.1 100 11   678.3 2844  
+26 1950                                                           -32.9 100 11   678.1 2843  
+26 2050                                                           -32.8 090 10   678.1 2843  
+26 2150                                                           -32.8 090 11   678.0 2842  
+26 2250                                                           -32.9 080 10   677.9 2842  
+26 2350 FEW005                      9999                          -32.8 080 11   677.8 2842  CLN AIR 08014KT SDG/HDG
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+27 0050                                                           -32.7 080 11   677.8 2842  
+27 0150                                                           -32.9 090 11   677.6 2841  
+27 0250                                                           -33.0 090 12   677.5 2840  
+27 0350                                                           -33.1 090 11   677.4 2840  
+27 0450                                                           -33.3 090 10   677.5 2840  
+27 0550 SKC                         9999                          -33.3 090 10   677.4 2840  CLN AIR 09010KT SDG/HDG
+27 0650                                                           -32.8 100 09   677.3 2840  
+27 0750                                                           -32.7 100 06   677.2 2839  
+27 0850                                                           -32.7 110 08   677.0 2839  
+27 0950                                                           -32.8 100 11   676.8 2838  
+27 1050                                                           -33.0 110 12   676.6 2837  
+27 1150 SKC                         9999                          -33.0 110 10   676.7 2837  CLN AIR 10008KT SDG/HDG
+27 1250 SKC                         9999                          -32.9 100 09   676.7 2838  CLN AIR 10011KT SDG/HDG
+27 1350 SKC                         9999                          -33.0 110 12   676.7 2837  CLN AIR 10009KT SDG/HDG
+27 1450 SKC                         9999                          -33.1 100 10   676.6 2837  CLN AIR 10010KT SDG/HDG
+27 1550 SKC                         9999                          -33.3 100 10   676.4 2836  CLN AIR 10009KT SDG/HDG
+27 1650 SKC                         9999                          -33.6 090 10   676.4 2836  CLN AIR 09009KT SDG/HDG
+27 1750 SKC                         9999                          -33.7 090 09   676.5 2837  CLN AIR 09009KT SDG/HDG
+27 1850 SKC                         9999                          -33.5 090 09   676.6 2837  CLN AIR 09008KT SDG/HDG
+27 1950 SKC                         9999                          -33.5 090 07   676.7 2837  CLN AIR 08008KT SDG/HDG
+27 2050 SKC                         9999                          -33.7 090 08   676.9 2838  CLN AIR 09008KT SDG/HDG
+27 2150 SKC                         9999                          -33.7 070 07   677.3 2840  CLN AIR 08008KT SDG/HDG
+27 2250 SKC                         9999                          -33.8 070 07   677.4 2840  CLN AIR 07008KT SDG/HDG
+27 2350 SKC                         9999                          -33.8 070 06   677.7 2841  CLN AIR 06007KT SDG/HDG
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+28 0050 FEW060                      9999                          -33.8 070 07   677.8 2842  CLN AIR 07008KT SDG/HDG
+28 0150 SKC                         9999                          -33.8 060 08   677.9 2842  CLN AIR 06009KT SDG/HDG
+28 0250 FEW020 FEW060               9999                          -33.8 050 07   678.1 2843  CLN AIR 06007KT SDG/HDG
+28 0350 FEW020 FEW060               9999                          -33.9 080 06   678.3 2844  CLN AIR 07007KT SDG/HDG
+28 0450 FEW020 FEW060               9999                          -33.8 070 07   678.5 2844  CLN AIR 07008KT SDG/HDG
+28 0550 FEW020 FEW060               9999                          -33.9 070 07   678.8 2846  CLN AIR 07009KT SDG/HDG
+28 0650 FEW020 FEW060               9999                          -33.3 060 08   679.0 2846  CLN AIR 07009KT SDG/HDG
+28 0750 FEW010 FEW060               9999                          -33.3 070 09   679.1 2847  CLN AIR 07009KT SDG/HDG
+28 0810 SCT004 BKN010               9999                          -33.1 060 08   679.2 2847  CLN AIR 06010KT SDG/HDG
+28 0850 SCT003 BKN010               9999                          -32.9 060 09   679.3 2848  CLN AIR 06010KT SDG/HDG
+28 0950                                                           -32.4 050 07   679.6 2849  
+28 1050                                                           -32.4 060 10   679.6 2849  
+28 1150 FEW004                      9999                          -32.3 060 07   680.0 2850  CLN AIR 07008KT SDG/HDG
+28 1250                                                           -32.4 060 07   680.2 2851  
+28 1350                                                           -32.3 060 07   680.3 2852  
+28 1450 FEW004 SCT010               9999                          -32.2 050 08   680.4 2852  CLN AIR 06008KT SDG/HDG
+28 1550 FEW004 FEW010               9999                          -32.1 060 07   680.5 2852  CLN AIR 07007KT SDG/HDG
+28 1650 FEW004 FEW090               9999                          -32.4 070 07   680.7 2853  CLN AIR 07007KT SDG/HDG
+28 1750 SCT090                      9999                          -32.2 050 08   680.9 2854  CLN AIR 06008KT SDG/HDG
+28 1850 SCT070                      9999                          -32.9 070 08   680.9 2854  CLN AIR 07010KT SDG/HDG
+28 1950 FEW005 SCT070               9999                          -32.3 070 07   681.0 2854  CLN AIR 08009KT SDG/HDG
+28 2050 FEW005 SCT070               9999                          -32.6 070 07   681.2 2855  CLN AIR 07008KT SDG/HDG
+28 2150 FEW070                      9999                          -32.5 060 08   681.4 2856  CLN AIR 06009KT SDG/HDG
+28 2250 FEW060                      9999                          -32.6 070 07   681.5 2856  CLN AIR 07010KT SDG/HDG
+28 2350 FEW005 FEW060               9999                          -33.0 080 07   681.8 2857  CLN AIR 08009KT SDG/HDG
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+29 0050 FEW005                      9999                          -32.9 070 08   681.9 2858  CLN AIR 07006KT SDG/HDG
+29 0150 FEW005                      9999                          -32.9 060 08   681.9 2858  CLN AIR 06011KT SDG/HDG
+29 0250 FEW005 FEW060               9999                          -33.1 060 09   681.9 2858  CLN AIR 06008KT SDG/HDG
+29 0350 FEW005 FEW060               9999                          -33.1 060 07   682.0 2858  CLN AIR 06009KT SDG/HDG
+29 0450 FEW008 FEW060               9999                          -33.4 060 08   682.1 2859  CLN AIR 06009KT SDG/HDG
+29 0550 FEW008 FEW060               9999                          -33.4 050 08   682.2 2859  CLN AIR 05010KT SDG/HDG
+29 0650 FEW008 FEW060               9999                          -33.2 050 10   682.5 2860  CLN AIR 05009KT SDG/HDG
+29 0750 FEW008 SCT060               9999 IC                       -33.2 040 07   682.6 2861  CLN AIR 06008KT SDG/HDG
+29 0850 FEW008 SCT030 BKN060        9000 IC                       -33.2 030 10   682.8 2861  CLN AIR 03010KT SDG/HDG
+29 0950 FEW000 SCT006 SCT030 BKN060 1600 IC BR                    -32.9 360 12   683.0 2862  BR FEW000 CLN AIR 01010KT SDG/HDF
+29 1050                                                           -33.5 010 07   683.5 2864  
+29 1150 OVC005                      6000 BR                       -33.5 020 08   683.7 2865  THN OVC CLN AIR 02010KT SDG/HDF
+29 1250                                                           -33.5 010 09   683.9 2866  
+29 1350 SCT005                      6000 BR                       -33.8 020 09   684.1 2867  CLN AIR 03008KT SDG/HDF
+29 1450 SCT007                      8000 BR                       -34.0 020 08   684.3 2867  CLN AIR 02008KT SDG/HDF
+29 1550 FEW005                      8000 BR                       -34.0 020 09   684.4 2868  CLN AIR 02009KT SDG/HDG
+29 1650 FEW005                      9000 BR                       -33.4 020 08   684.5 2868  CLN AIR 02009KT SDG/HDG
+29 1750 FEW005                      9000 BR                       -33.8 020 11   684.7 2869  CLN AIR 02010KT SDG/HDG
+29 1850 FEW005 SCT060               9000 IC                       -33.7 020 10   684.9 2870  CLN AIR 02013KT SDG/HDG
+29 1950 SCT005 BKN050               9000 IC                       -33.4 020 10   685.0 2870  CLN AIR 03011KT SDG/HDG
+29 2050 SCT005 BKN040               8000 IC BR                    -33.1 020 10   685.0 2870  CLN AIR 02012KT SDG/HDG
+29 2150 FEW005 SCT040               8000 IC BR                    -33.1 020 11   685.0 2870  CLN AIR 02013KT SDG/HDG
+29 2250 FEW005 BKN050               8000 IC BR                    -32.7 020 11   685.1 2870  CLN AIR 02012KT SDG/HDG
+29 2350 SCT005 BKN050               8000 IC BR                    -32.4 020 13   685.1 2870  CLN AIR 03012KT SDG/HDG
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+30 0050 FEW005 BKN050               8000 IC BR                    -32.5 030 11   685.2 2871  CLN AIR 03012KT SDG/HDG
+30 0150 FEW005 BKN060               8000 IC BR                    -32.2 030 11   685.2 2871  CLN AIR 03012KT SDG/HDG
+30 0250 FEW005 FEW010 BKN060        6000 IC BR                    -32.0 030 10   685.0 2870  CLN AIR 03010KT SDG/HDG
+30 0325 FEW000 FEW010 BKN025        3200 -SG IC BR                -30.4 020 10   684.9 2870  BR FEW000 CLN AIR 03011KT SDF/HDF
+30 0350 FEW000 FEW010 BKN025        3200 -SG IC BR                -29.7 020 11   684.8 2869  BR FEW000 CLN AIR 02010KT SDF/HDF
+30 0450 FEW000 FEW010 BKN030        3200 -SG BR                   -30.2 020 11   684.7 2869  BR FEW000 CLN AIR 02010KT SDF/HDF
+30 0510 FEW010 BKN030               4800 -SG BR                   -30.8 030 09   684.6 2868  CLN AIR 03009KT SDG/HDF
+30 0550 FEW010 BKN030               4800 -SG IC BR                -31.0 030 09   684.6 2868  CLN AIR 04008KT SDG/HDG
+30 0620 FEW005 FEW010 SCT030 BKN060 6000 IC BR                    -31.4 040 09   684.6 2868  CLN AIR 04009KT SDG/HDG
+30 0650 FEW005 SCT030 BKN060        6000 IC BR                    -31.5 040 09   684.5 2868  CLN AIR 04009KT SDG/HDG
+30 0750                                                           -31.8 050 06   684.4 2868  
+30 0850                                                           -32.1 070 05   684.4 2868  
+30 0950                                                           -32.4 060 07   684.4 2868  
+30 1050                                                           -32.2 040 06   684.3 2867  
+30 1150 FEW015 SCT050               8000 BR                       -32.2 060 04   684.5 2868  CLN AIR 03007KT SDG/HDG
+30 1250 FEW015 SCT050               8000 BR                       -32.2 000 00   684.6 2868  CLN AIR 04005KT SDG/HDG
+30 1350 FEW015 SCT050               9000 BR                       -32.3 070 04   684.8 2869  CLN AIR 04005KT SDG/HDG
+30 1450 FEW015 BKN050               9000 BR                       -32.9 020 05   684.8 2869  CIG THN CLN AIR 02007KT SDG/HDG
+30 1550 FEW015 SCT050               9000 BR                       -33.3 010 05   684.9 2870  CLN AIR 01007KT SDG/HDG
+30 1650 OVC010                      6000 BR                       -33.3 350 08   684.9 2870  CLN AIR 35007KT SDG/HDF
+30 1744 SCT000 OVC008               1200 -SG BR                   -33.2 350 06   685.2 2871  BR SCT000 CLN AIR 35007KT SDP/HDN
+30 1750 SCT000 OVC008               0800 -SG FG                   -33.2 350 05   685.2 2871  FG SCT000 CLN AIR 35007KT SDP/HDN
+30 1824 OVC008                      3200 BR                       -33.4 310 05   685.3 2871  CLN AIR 35007KT SDP/HDN
+30 1850 OVC010                      3200 BR                       -32.1 350 05   685.5 2872  CLN AIR 35006KT SDP/HDP
+30 1950 OVC010                      3200 -SG BR                   -30.7 340 06   685.7 2873  CLN AIR 34006KT SDP/HDF
+30 2050 OVC010                      3200 -SG BR                   -30.1 320 05   685.9 2874  CLN AIR 30005KT SDP/HDF
+30 2150 OVC010                      3200 -SG BR                   -29.7 310 05   686.3 2875  CLN AIR 31005KT SDP/HDF
+30 2231 BKN005 OVC010               4800  BR                      -29.6 000 00   686.4 2875  CLN AIR 33004KT SDP/HDF
+30 2250 BKN005 OVC010               4800 BR                       -29.5 000 00   686.5 2876  CLN AIR 32003KT SDP/HDF
+30 2319 FEW003 OVC005               3200 BR                       -29.3 000 00   686.6 2876  CLN AIR 00000KT SDP/HDP
+30 2340 SCT003 OVC005               2400 BR                       -29.3 310 04   686.7 2877  CLN AIR 31003KT SDP/HDN
+30 2350 SCT003 OVC005               2400 BR                       -29.4 000 00   686.7 2877  CLN AIR 29006KT SDP/HDN
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+31 0028 BKN003 OVC005               1600 BR                       -29.5 300 03   686.9 2877  CLN AIR 00000KT SDP/HDN
+31 0038 SCT000 BKN002 OVC005        1600 BR                       -29.7 310 04   686.9 2877  BR SCT000 CLN AIR 00000KT SDP/HDN
+31 0050 SCT000 BKN002 OVC005        1000 -SG BR                   -29.7 000 00   686.9 2877  BR SCT000 CLN AIR 32003KT SDP/HDN
+31 0117 SCT000 BKN002 OVC005        1600 -SG BR                   -29.7 000 00   686.9 2877  BR SCT000 CLN AIR 00000KT SDP/HDN
+31 0150 SCT000 BKN001 OVC005        1600 -SG BR                   -29.3 000 00   687.0 2878  BR SCT000 CLN AIR 28003KT SDP/HDN
+31 0207 FEW000 BKN001 BKN005 BKN040 2400 IC BR                    -29.5 270 03   687.0 2878  BR FEW000 CLN AIR 27004KT SDG/HDP
+31 0223 SCT000 BKN001 BKN005        1600 -SG BR                   -29.4 000 00   687.0 2878  BR SCT000 CLN AIR 27004KT SDF/HDN
+31 0239 BKN000 BKN001 OVC005        1200 -SG BR                   -29.9 270 05   687.1 2878  VIS GRID N 1600 BR BKN000 CLN AIR 28003KT SDP/HDN
+31 0250 SCT000 BKN001 OVC005        1600 -SG BR                   -29.7 280 03   687.1 2878  BR SCT000 CLN AIR 27003KT SDF/HDN
+31 0350 SCT000 BKN001 BKN005 OVC040 1600 -SG IC BR                -30.1 000 00   687.2 2878  BR SCT000 CLN AIR 30003KT SDF/HDN
+31 0430 FEW000 SCT001 BKN005 BKN040 3200 IC BR                    -30.7 270 03   687.2 2879  BR FEW000 CLN AIR 00000KT SDG/HDP
+31 0450 SCT002 BKN005 BKN045        4800 IC BR                    -30.8 290 03   687.3 2879  CLN AIR 00000KT SDG/HDF
+31 0550 BKN001 OVC005               3200 -SG BR                   -31.3 000 00   687.5 2880  VIS GRID N 1600 CLN AIR 34003KT SDF/HDF
+31 0650                                                           -32.6 000 00   687.7 2880  
+31 0750                                                           -34.2 010 03   687.9 2881  
+31 0850                                                           -33.3 000 00   687.9 2881  
+31 0950                                                           -34.3 080 03   688.0 2882  
+31 1050                                                           -34.5 060 05   688.1 2882  
+31 1150 FEW000 SCT005 SCT040        6000 IC BR                    -34.8 060 05   688.0 2882  VIS GRID N 3200 BR FEW000 CLN AIR 06004KT SDG/HDF
+31 1250 FEW000 SCT005 SCT040        8000 BR                       -34.7 070 04   687.9 2881  BR FEW000 CLN AIR 07005KT SDG/HDG
+31 1350                                                           -33.6 060 04   688.0 2882  
+31 1450                                                           -33.0 050 05   688.0 2882  
+31 1550 BKN000 BKN003 OVC006        0800 FG                       -32.4 050 05   687.9 2881  FG BKN000 CLN AIR 05007KT SDP/HDN
+31 1650 BKN000 BKN006 OVC070        0800 FZFG                     -31.4 070 05   687.7 2880  FZFG BKN000 CLN AIR 07006KT SDP/HDN
+31 1709 FEW000 BKN006 OVC070        4800 BR                       -31.5 080 05   687.6 2880  BR FEW000 CLN AIR 08007KT SDG/HDF
+31 1750 FEW000 BKN005 BKN070        4800 BR                       -32.2 070 07   687.6 2880  BR FEW000 CLN AIR 07010KT SDG/HDF
+31 1850 FEW000 SCT001 BKN005 BKN040 6000 IC BR                    -33.3 060 06   687.7 2881  BR FEW000 CIG THIN CLN AIR 07008KT SDG/HDF
+31 1950 FEW000 SCT001 BKN005 OVC040 6000 IC BR                    -33.4 050 08   687.6 2880  BR FEW000 CIG THIN CLN AIR 06010KT SDG/HDF
+31 2014 FEW000 BKN002 BKN005 OVC040 3200 IC BR                    -33.6 060 08   687.6 2880  BR FEW000 CIG THIN CLN AIR 06008KT SDG/HDP
+31 2050 SCT000 BKN002 BKN005 OVC040 2400 IC BR                    -33.1 070 09   687.5 2880  BR SCT000 CIG THIN CLN AIR 07010KT SDG/HDP
+31 2133 SCT000 BKN002 BKN005 BKN040 1600 IC BR                    -33.3 080 09   687.4 2879  BR SCT000 CIG THIN CLN AIR 08010KT SDG/HDP
+31 2150                                                           -33.5 080 09   687.3 2879  
+31 2250                                                           -32.8 080 09   687.2 2879  
+31 2350 FEW000 SCT002 BKN040        8000 BR                       -32.6 080 08   687.1 2878  BR FEW000 CLN AIR 07010KT SDG/HDF

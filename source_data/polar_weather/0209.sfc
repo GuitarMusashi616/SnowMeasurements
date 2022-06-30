@@ -1,0 +1,713 @@
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+31 2350 BKN013 OVC030               2400 -SG BR                   -27.3 060 06   686.3 2876  SDF/HDP
+01 0050                                                           -26.7 080 06   686.2 2875  
+01 0150                                                           -26.3 060 10   686.0 2875  
+01 0250                                                           -27.0 080 13   686.0 2875  
+01 0350                                                           -28.2 080 11   686.0 2875  
+01 0450                                                           -29.5 080 09   686.1 2875  
+01 0550 OVC008                      9999 -SG                      -29.3 080 07   686.1 2875  SDG/HDG
+01 0650                                                           -28.7 060 09   686.0 2875  
+01 0750                                                           -27.5 050 09   685.9 2875  
+01 0850                                                           -28.4 080 08   685.9 2875  
+01 0950                                                           -28.4 060 08   686.0 2875  
+01 1050                                                           -28.0 050 10   686.1 2875  
+01 1150 OVC007                      6000 IC BR                    -28.1 030 08   686.1 2875  SDP/HDF
+01 1250                                                           -27.9 020 08   686.3 2876  
+01 1350 OVC008                      9000 IC BR                    -28.1 020 06   686.4 2877  SDP/HDF
+01 1450 SCT009 BKN020               9000 IC BR                    -29.8 340 08   686.6 2877  SDG/HDG
+01 1550 OVC008                      6000 IC BR                    -30.1 310 05   686.9 2878  VIS GRID W 3200 SDP/HDF
+01 1650 OVC006                      1600 -SG BR                   -30.0 320 06   687.1 2879  SDP/HDN
+01 1750 OVC006                      3200 -SG BR                   -30.2 010 05   687.5 2881  SDN/HDN
+01 1850 BKN010 OVC020               4800 -SG BR                   -30.0 020 08   687.7 2882  SDP/HDN
+01 1950 OVC007                      6000 -SG BR                   -29.8 330 07   688.2 2884  SDP/HDN
+01 2050 BKN007 OVC018               4800 -SG BR                   -29.6 330 09   688.7 2885  SDP/HDN
+01 2150 BKN007 OVC020               4800 -SG BR                   -29.5 330 07   689.1 2887  SDP/HDN
+01 2250 BKN015 OVC030               4800 -SG BR                   -30.0 320 07   689.6 2889  THN SPTS IOVC SDG/HDP
+01 2350 SCT015 OVC030               4800 -SG BR                   -31.5 320 04   690.2 2891  THN SPTS IOVC SDG/HDF
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+02 0050 OVC033                      9999 IC                       -32.6 310 03   690.4 2892  CIG THN SDG/HDG
+02 0150 BKN033                      8000 IC BR                    -32.6 000 00   690.9 2894  CIG THN SDG/HDF
+02 0250 FEW010 BKN033               8000 BR                       -33.5 280 03   691.2 2895  CIG THN SDG/HDF
+02 0350 FEW010 BKN032               9999                          -34.2 300 04   691.6 2897  CIG THN SDG/HDG
+02 0450 SCT033 BKN045               9999                          -34.6 310 03   692.1 2899  CIG THN SDG/HDG
+02 0550 FEW010 SCT025 BKN040        9999                          -36.0 340 04   692.6 2901  CIG THN SDG/HDG
+02 0650 FEW012 BKN035               9999                          -35.4 350 07   693.0 2902  CIG THN SDG/HDG
+02 0750 FEW012 BKN035               9999 IC                       -35.5 360 07   693.3 2904  CIG THN SDG/HDG
+02 0850 BKN035                      9999 IC                       -35.9 360 07   693.7 2905  CIG THN SDG/HDG
+02 0950 FEW015 SCT039               9999 IC                       -36.1 020 07   693.9 2906  SDG/HDG
+02 1050 SCT010 BKN031               3200 -SG IC BR                -36.3 010 07   694.1 2907  VIS GRID N 2400 VIS GRID W 1600 CIG THN SDG/HDP
+02 1150 FEW010 SCT030 BKN060        9000 -SG IC BR                -36.1 010 08   694.4 2908  CIG THN SDG/HDG
+02 1250                                                           -36.1 040 04   694.6 2908  
+02 1350 BKN014 BKN060               9000 IC BR                    -36.3 020 07   694.7 2909  SDG/HDG
+02 1450 BKN015 BKN060               9000 IC BR                    -36.4 020 07   694.6 2909  SDG/HDG
+02 1550 SCT019 BKN050               9000 IC BR                    -36.0 010 08   694.7 2909  SDG/HDG
+02 1650 SCT014 BKN040               8000 -SG IC BR                -36.0 030 07   694.8 2910  SDG/HDF
+02 1750 SCT016 OVC040               4800 -SG IC BR                -36.1 020 09   694.8 2910  CIG THN SDG/HDP
+02 1850 FEW015 SCT040               9999 -SG IC                   -36.3 000 00   694.7 2909  SDG/HDG
+02 1950 FEW015 SCT040               9999 -SG IC                   -36.7 000 00   694.8 2909  SDG/HDG
+02 2050 FEW015 SCT050               9000 IC BR                    -38.3 080 03   694.9 2910  VIS GRID S 2400 STN EXHAUST SDG/HDG
+02 2150 FEW002 SCT015 SCT050        9999 -SG IC                   -39.0 050 04   694.7 2909  VIS GRID S 1600 STN EXHAUST CONTRAIL FEW002 SDG/HDG
+02 2224 BKN010 BKN015 BKN050        2800 -SG IC BR                -37.4 040 05   694.5 2908  VIS GRID NW-N 9000 SDG/HDF
+02 2250 FEW015 SCT050               9999                          -37.7 040 04   694.4 2908  VIS GRID SE-SW 1600 STN EXHAUST SDG/HDG
+02 2350 FEW015 SCT040               9999 IC                       -38.2 060 06   694.3 2907  VIS GRID SE-SW 1600 STN EXHAUST SDG/HDG
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+03 0050 FEW015 FEW040               9999                          -39.3 080 06   693.9 2906  VSI GRID SE-SW 1200 STN EXHAUST SDG/HDG
+03 0150 FEW015 FEW040               9999                          -39.7 080 06   693.8 2906  VIS GRID SE-SW 0800 STN EXHAUST SDG/HDG
+03 0250 FEW015 FEW040               9999                          -39.9 070 05   693.4 2904  VIS GRIS SE-SW 0800 STN EXHAUST SDG/HDG
+03 0350 FEW001 FEW010               9999                          -40.3 090 05   693.0 2902  VIS GRID SE-SW 0800 STN EXHAUST SDG/HDG
+03 0450 FEW010                      9999                          -39.8 080 07   692.8 2902  VIS GRID SE-SW 0800 STN EXHAUST SDG/HDG
+03 0550 SCT006 SCT040               9999                          -40.1 080 05   692.5 2901  VIS GRID S-SW 1200 STN EXHAUST SDG/HDG
+03 0650 FEW006 FEW060               9999                          -39.9 090 07   692.2 2899  SDG/HDG
+03 0750 FEW006 FEW060               9999                          -39.9 100 07   691.9 2898  VIS GRID S-SW 1200 STN EXHAUST SDG/HDG
+03 0850 FEW060                      9999                          -40.1 100 07   691.5 2897  VIS GRID SW 1200 STN EXHAUST SDG/HDG
+03 0950 FEW060                      9999                          -39.8 090 09   691.2 2895  SDG/HDG
+03 1050 FEW060                      9999                          -39.9 090 07   690.9 2894  SDG/HDG
+03 1150 FEW001 FEW060               9999                          -40.0 100 06   690.7 2893  VIS GRID SW 0600 STN EXHAUST SDG/HDG
+03 1250                                                           -40.3 100 06   690.2 2891  
+03 1350 FEW001 FEW020 FEW060        9999                          -40.4 090 08   689.8 2890  VIS GRID SW 0600 STN EXHAUST SDG/HDG
+03 1450 FEW001 FEW050               9999                          -39.9 100 07   689.4 2888  VIS GRID SW 0600 STN EXHAUST SDG/HDG
+03 1550 FEW001 FEW040               9999                          -40.2 090 08   689.0 2887  VIS GRID SW 0600 STN EXHAUST SDG/HDG
+03 1650 FEW001 FEW040               9999                          -40.0 100 08   688.7 2886  VIS GRID SW 0600 STN EXHAUST SDG/HDG
+03 1750 FEW001 FEW040               9999                          -40.0 090 09   688.4 2884  VIS GRID SW 0600 STN EXHAUST SDG/HDG
+03 1850 FEW060                      9999                          -39.7 090 08   688.2 2884  SDG/HDG
+03 1950 FEW060                      9999 IC                       -39.6 100 08   688.0 2883  VIS GRID SW 1600 STN EXHAUST SDG/HDG
+03 2050 FEW060                      9999 IC                       -40.1 100 07   687.9 2882  VIS GRID SW 1600 STN EXHAUST SDG/HDG
+03 2150 FEW060                      9999 IC                       -40.3 100 07   687.5 2881  SDG/HDG
+03 2250 FEW060                      9999 IC                       -40.0 100 07   687.2 2880  SDG/HDG
+03 2350 FEW060                      9999 IC                       -40.0 120 09   687.2 2880  VIS GRID SW-W 1600 STN EXHAUST SDG/HDG
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+04 0050 FEW060                      9999                          -39.9 100 09   686.7 2878  SDG/HDG
+04 0150 FEW060                      9999                          -39.8 110 07   686.5 2877  SDG/HDG
+04 0250 FEW060                      9999                          -39.6 100 07   686.1 2875  SDG/HDG
+04 0350 FEW060                      9999                          -39.8 100 04   685.9 2875  SDG/HDG
+04 0450 FEW060                      9999                          -38.8 090 06   685.9 2875  SDG/HDG
+04 0550 FEW060                      9999                          -39.7 100 08   685.8 2874  SDG/HDG
+04 0650 FEW060                      9999                          -39.9 110 09   685.8 2874  SDG/HDG
+04 0750 FEW060                      9999                          -40.1 100 09   685.8 2874  SDG/HDG
+04 0850 SCT060                      9999                          -40.3 080 08   685.5 2873  SDG/HDG
+04 0950 BKN050                      9999                          -39.9 080 09   685.6 2873  SDG/HDG
+04 1050 BKN050                      9999                          -40.1 080 08   685.6 2874  SDG/HDG
+04 1150 SCT030 BKN060               9999 IC                       -39.9 080 09   685.5 2873  VIS GRID SW 0600 STN EXHAUST SDG/HDG
+04 1250                                                           -40.3 090 08   685.4 2873  
+04 1350 SCT020 BKN060               9999                          -39.7 080 08   685.1 2872  VIS GRID SW 0800 STN EXHAUST SDG/HDG
+04 1450 SCT020 BKN060               9999                          -38.5 080 08   685.1 2871  SDG/HDG
+04 1550 SCT020 BKN060               9999                          -39.4 080 08   685.0 2871  SDG/HDG
+04 1650 SCT020 BKN070               9999                          -38.5 080 07   684.8 2871  SDG/HDG
+04 1750 SCT020 BKN060               9999                          -38.2 080 09   685.0 2871  SDG/HDG
+04 1850 BKN060 BKN100               9999                          -36.7 070 10   684.9 2871  SDG/HDG
+04 1950 SCT050 BKN080               9999                          -38.2 080 09   684.9 2871  SDG/HDG
+04 2050 FEW050 BKN100               9999                          -38.7 090 09   684.8 2870  SDG/HDG
+04 2150 SCT050 BKN100               9999                          -39.3 090 09   684.8 2870  CIG THN SDG/HDG
+04 2250 FEW060 SCT100               9999 IC                       -38.9 080 09   684.8 2870  SDG/HDG
+04 2350 FEW060 FEW100               9999 IC                       -39.0 080 10   684.4 2869  SDG/HDG
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+05 0050 FEW010 FEW100               9999                          -39.0 080 11   684.2 2868  SDG/HDG
+05 0150 FEW090                      9000 BR                       -38.8 090 09   683.9 2867  SDG/HDF
+05 0250 FEW090                      9000 BR                       -38.5 080 10   683.6 2866  SDG/HDF
+05 0350 FEW080                      8000 BR                       -39.5 100 10   683.3 2864  VIS GRID S 2000 STN EXHAUST SDG/HDF
+05 0450 FEW080                      8000 BR                       -39.3 090 10   683.2 2864  SDG/HDF
+05 0550 FEW010 FEW080               8000 IC BR                    -38.8 100 10   682.9 2863  SDG/HDF
+05 0650 FEW010 FEW080               8000 IC BR                    -38.4 100 12   682.7 2862  SDG/HDF
+05 0750 BKN010 BKN080               9000 IC BR                    -38.8 100 11   682.4 2861  CIG THN SDG/HDG
+05 0838 FEW010                      9999 IC                       -38.8 090 09   682.2 2860  SDG/HDG
+05 0850 FEW010                      9999 IC                       -38.7 090 11   682.1 2860  SDG/HDG
+05 0950 FEW010                      9999                          -38.4 100 12   681.6 2858  SDG/HDG
+05 1050 FEW010                      9999                          -38.4 100 10   681.1 2856  SDG/HDG
+05 1150 SKC                         9999 IC                       -38.4 090 09   680.8 2855  SDG/HDG
+05 1250                                                           -38.4 100 08   680.4 2853  
+05 1350 FEW040                      8000 IC BR                    -39.2 090 07   680.0 2851  SDG/HDG
+05 1450 FEW040                      8000 IC BR                    -38.7 090 09   679.7 2850  SDG/HDG
+05 1550 FEW040                      8000 IC BR                    -38.5 090 11   679.3 2849  SDG/HDG
+05 1650 SKC                         8000 IC BR                    -38.6 080 09   678.9 2847  SDG/HDF
+05 1750 FEW050                      8000 IC BR                    -38.7 090 08   678.7 2846  SDG/HDG
+05 1850 FEW050                      9000 IC BR                    -39.0 080 09   678.3 2845  SDG/HDG
+05 1950 FEW050                      9000 IC BR                    -39.2 090 09   678.2 2844  SDG/HDG
+05 2050 FEW020 FEW050               9999 IC                       -39.2 090 08   677.9 2843  SDG/HDG
+05 2150 FEW050                      9999 IC                       -39.9 090 09   677.8 2843  SDG/HDG
+05 2250 FEW050                      9999 IC                       -39.2 090 10   677.5 2842  SDG/HDG
+05 2350 FEW050                      9999 IC                       -39.3 090 08   677.4 2841  SDG/HDG
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+06 0050 FEW010 FEW050               9999                          -39.3 080 09   677.1 2840  SDG/HDG
+06 0150 FEW010 FEW050               9999                          -39.7 080 09   677.0 2840  VIS GRID SW 1600 STN EXHAUST SDG/HDG
+06 0250 FEW010 FEW050               9999                          -39.4 090 07   676.8 2839  VIS GRID SW 1600 STN EXHAUST SDG/HDG
+06 0350 FEW040                      9999                          -40.0 100 08   676.8 2839  VIS GRID SW 1600 STN EXHAUST SDG/HDG
+06 0450 FEW040                      9999                          -39.7 090 09   676.7 2839  VIS GRID SW 1200 STN EXHAUST SDG/HDG
+06 0550 FEW050                      9999                          -39.6 090 08   676.8 2839  SDG/HDG
+06 0650 FEW060                      9999                          -39.5 090 08   677.0 2840  SDG/HDG
+06 0750 FEW060                      9999                          -39.6 090 07   677.0 2840  SDG/HDG
+06 0850                                                           -39.6 100 07   677.1 2840  
+06 0950                                                           -39.9 090 09   677.3 2841  
+06 1050                                                           -40.1 080 10   677.4 2842  
+06 1150 FEW030 FEW060               9999                          -40.3 090 09   677.5 2842  VIS GRID SW 0600 STN EXHAUST SDG/HDG
+06 1250                                                           -39.9 080 08   677.7 2842  
+06 1350 FEW030 FEW060               9999                          -40.2 090 08   677.9 2843  VIS GRID SW 0600 STN EXHAUST SDG/HDG
+06 1450 SCT002 BKN040               6000 IC BR                    -38.0 070 08   677.9 2843  VIS GRID SW 0800 STN EXHAUST SDG/HDG
+06 1525 OVC002                      1600 -SG IC BR                -36.8 070 07   678.0 2844  VIS GRID N 0800 SUN DMLY VSBL SDP/HDN
+06 1550 OVC001                      1600 -SG IC BR                -34.7 060 06   678.1 2844  SUN DMLY VSBL SDP/HDN
+06 1635 OVC003                      3200 -SG IC BR                -33.7 050 07   678.2 2844  THN SPTS IOVC SDP/HDP
+06 1650 OVC005                      6000 -SG IC BR                -33.4 030 07   678.2 2844  SUN DMLY VSBL SDP/HDP
+06 1727 OVC005                      3200 -SG IC BR                -31.8 040 09   678.3 2845  SUN DMLY VSBL SDP/HDN
+06 1750 OVC006                      4800 -SG IC BR                -31.3 040 08   678.4 2845  SUN DMLY VSBL SDP/HDN
+06 1850 BKN007 BKN012               6000 -SG IC BR                -31.9 030 06   678.8 2846  SDF/HDP
+06 1950 BKN010 OVC030               6000 -SG IC BR                -33.2 060 05   678.9 2847  SDF/HDF
+06 2050 BKN008 OVC030               6000 -SG IC BR                -32.5 040 09   679.1 2848  SDF/HDP
+06 2150 BKN008 BKN030               4800 -SG BR                   -32.7 050 10   679.1 2848  SDF/HDP
+06 2223 FEW008 BKN030               4800 IC BR                    -34.6 060 10   679.1 2848  SDG/HDF
+06 2250 FEW010 BKN035               4800 IC BR                    -34.8 060 07   679.2 2848  SDG/HDF
+06 2306 BKN010 BKN030               1600 IC BR                    -35.1 040 11   679.2 2848  SDF/HDP
+06 2350 BKN010 BKN035               6000 -SG BR                   -34.9 050 08   679.5 2849  SDF/HDF
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+07 0050 SCT010 BKN035               6000 IC BR                    -35.9 070 08   679.5 2849  SDG/HDF
+07 0150 FEW010 BKN040               9000 IC BR                    -37.5 090 08   679.5 2850  SDG/HDG
+07 0250                                                           -37.1 080 11   679.6 2850  
+07 0350                                                           -37.8 070 10   679.5 2850  
+07 0450                                                           -37.9 080 10   679.5 2850  
+07 0550 BKN010 BKN030               9000 IC BR                    -38.0 080 07   679.8 2851  SDG/HDG
+07 0650                                                           -38.3 080 08   679.8 2851  
+07 0750                                                           -39.1 080 08   680.1 2852  
+07 0850                                                           -38.9 070 07   680.4 2853  
+07 0950                                                           -37.3 080 06   680.3 2853  
+07 1050                                                           -34.4 040 13   680.4 2853  
+07 1150 BKN006 OVC020               3200 -SG IC BR                -34.0 020 12   680.6 2854  SDP/HDP
+07 1250                                                           -33.5 040 08   680.7 2854  
+07 1350                                                           -33.0 030 14   680.8 2854  
+07 1450                                                           -33.0 030 12   681.1 2856  
+07 1550                                                           -33.6 050 08   681.1 2856  
+07 1650                                                           -34.6 050 07   681.3 2857  
+07 1750 BKN012                      9999 IC                       -35.2 060 08   681.3 2857  SDG/HDG
+07 1850 BKN008 OVC017               9999 IC                       -36.1 060 08   681.5 2857  SDG/HDG
+07 1950 BKN008 OVC015               9999                          -36.0 070 06   681.7 2858  SDG/HDG
+07 2050 BKN007 OVC015               9999                          -35.3 080 08   681.7 2858  SDG/HDG
+07 2150 BKN009 OVC015               9999                          -36.3 090 07   682.0 2859  SDG/HDG
+07 2250 BKN007 OVC019               9999 IC                       -36.6 100 06   682.1 2860  SDG/HDG
+07 2350 BKN010 BKN020               9999                          -36.8 090 08   682.1 2860  SDG/HDG
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+08 0050 BKN007 BKN020               9999                          -37.5 080 09   682.1 2860  SDG/HDG
+08 0150 FEW007 SCT025               9999                          -38.4 090 07   682.3 2861  SDG/HDG
+08 0250 FEW005 BKN025               9999                          -38.8 090 07   682.5 2861  SDG/HDG
+08 0350 OVC007                      9999                          -38.6 090 08   682.7 2862  SDG/HDG
+08 0450 OVC007                      9999 IC                       -36.6 090 03   682.8 2863  SDG/HDG
+08 0525 OVC006                      1600 IC BR                    -35.9 100 06   682.9 2863  SDF/HDP
+08 0550 OVC007                      1600 IC BR                    -35.8 100 07   683.0 2863  SDF/HDP
+08 0650                                                           -38.1 090 07   683.1 2864  
+08 0750                                                           -39.5 100 08   683.2 2864  
+08 0850                                                           -39.8 100 07   683.5 2865  
+08 0950                                                           -39.2 100 09   683.5 2865  
+08 1050                                                           -39.4 100 06   683.5 2865  
+08 1150 SCT020 SCT060               9999                          -40.6 100 06   683.6 2866  SDG/HDG
+08 1250                                                           -41.0 100 04   683.7 2866  
+08 1350 SCT015 BKN050               9999                          -41.3 110 04   683.9 2867  VIS GRID SW 1000 STN EXHAUST SDG/HDG
+08 1450 BKN012                      9999                          -41.2 100 06   683.9 2867  VIS GRID SW 1000 STN EXHAUST SDG/HDG
+08 1550 BKN010                      9999 IC                       -41.3 100 06   683.9 2867  VIS GRID SW 0600 STN EXHAUST SDG/HDG
+08 1650 BKN010                      9999                          -41.2 130 05   684.0 2867  VIS GRID SW-W 1600 STN EXHAUST SDG/HDG
+08 1750 BKN010                      9999                          -41.4 110 06   684.0 2867  VIS GRID SW-W 1600 STN EXHAUST SDG/HDG
+08 1850 BKN010 BKN030               9999                          -41.1 120 08   684.1 2868  VIS GRID SW-W 1600 STN EXHAUST SDG/HDG
+08 1950 BKN010 BKN030               9999                          -41.8 140 07   684.1 2868  VIS GRID SW-W 1600 STN EXHAUST SDG/HDG
+08 2050 SCT010 BKN030 BKN050        9999                          -42.0 130 10   684.2 2868  VIS GRID SW-W 1200 STN EXHAUST SDG/HDG
+08 2150 SCT010 BKN030 BKN050        9999                          -42.4 120 09   684.2 2868  VIS GRID SW-W 1200 STN EXHAUST CIG VRY THN SDG/HDG
+08 2250 FEW030 FEW050               9999                          -42.3 130 10   684.3 2868  VIS GRID SW-W 0800 STN EXHAUST SDG/HDG
+08 2350 FEW030 FEW060               9999                          -42.3 120 10   684.3 2868  VIS GRID SW-W 0800 STN EXHAUST SDG/HDG
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+09 0050 FEW030 SCT080               9999                          -42.8 120 11   684.2 2868  VIS GRID SW-W 0800 STN EXHAUST SDG/HDG
+09 0150 FEW030 BKN120               9999                          -42.2 130 10   684.1 2868  VIS GRID SW-W 1600 STN EXHAUST CIG THN SDG/HDG
+09 0250 SCT120                      9999                          -41.9 120 08   684.1 2868  VIS GRID W 0400 STN EXHAUST SDG/HDG
+09 0350 FEW025 FEW120               9999                          -42.2 130 10   684.0 2867  VIS GRID W 0400 STN EXHAUST SDG/HDG
+09 0450 FEW020 FEW100               9999                          -42.3 140 09   684.1 2868  VIS GRID W 0400 STN EXHAUST SDG/HDG
+09 0550 FEW020 FEW100               9999                          -42.3 130 11   683.9 2867  VIS GRID W 1200 STN EXHAUST SDG/HDG
+09 0650 FEW020 FEW100               9999                          -42.4 130 10   684.0 2867  VIS GRID W 1200 STN EXHAUST SDG/HDG
+09 0750 FEW100                      9999                          -42.1 130 11   683.8 2866  VIS GRIS W 1200 STN EXHAUST SDG/HDG
+09 0850 FEW020 FEW100               9999                          -42.0 120 10   683.7 2866  VIS GRID W 1200 STN EXHAUST SDG/HDG
+09 0950                                                           -41.8 120 13   683.7 2866  
+09 1050                                                           -41.9 120 08   683.7 2866  
+09 1150 FEW020 FEW100               9999                          -42.3 120 10   683.6 2866  VIS GRID SW-W 1200 STN EXHAUST SDG/HDG
+09 1250                                                           -42.3 110 04   683.6 2866  
+09 1350 FEW020 FEW090               9999 IC                       -42.0 120 08   683.5 2865  VIS GRID W 0800 STN EXHAUST SDG/HDG
+09 1450 FEW020 FEW090               9999 IC                       -42.0 130 04   683.5 2865  VIS GRID W 0800 STN EXHAUST SDG/HDG
+09 1550 FEW020 FEW090               9999 IC                       -41.7 120 07   683.4 2865  VIS GRID W 0800 STN EXHAUST SDG/HDG
+09 1650 FEW020                      9999                          -41.7 120 10   683.4 2865  SDG/HDG
+09 1750 FEW030                      9999 IC                       -42.2 120 10   683.3 2864  VIS GRID W 1600 STN EXHAUST SDG/HDG
+09 1850 FEW030 FEW050               9999                          -42.4 130 07   683.4 2865  VIS GRID SW-W 1200 STN EXHAUST SDG/HDG
+09 1950 FEW050                      9999                          -42.7 130 08   683.3 2864  VIS GRID SW-W 0800 STN EXHAUST SDG/HDG
+09 2050 FEW050                      9999 IC                       -42.7 120 07   683.3 2864  VIS GRID SW-W 1200 STN EXHAUST SDG/HDG
+09 2150 FEW050                      9999 IC                       -42.3 120 16   683.4 2865  VIS GRID SW-W 1200 STN EXHAUST SDG/HDG
+09 2250 FEW050                      9999 IC                       -42.5 120 06   683.4 2865  VIS GRID SW-W 1200 STN EXHAUST SDG/HDG
+09 2350 FEW050                      9999                          -42.2 120 06   683.1 2864  SDG/HDG
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+10 0050 FEW050                      9999                          -42.4 140 13   683.1 2864  SDG/HDG
+10 0150 FEW050                      9999                          -42.9 120 11   683.1 2864  SDG/HDG
+10 0250 FEW050                      9999 IC                       -43.1 130 15   682.9 2863  SDG/HDG
+10 0350 FEW050                      9999 IC                       -43.1 130 11   682.9 2863  SDG/HDG
+10 0450 FEW050                      9999 IC                       -43.0 130 11   682.7 2862  SDG/HDG
+10 0550 SKC                         9999 IC                       -43.1 130 13   682.6 2862  SDG/HDG
+10 0650 SKC                         9999 IC                       -42.8 120 13   682.6 2862  SDG/HDG
+10 0750 SKC                         9999 IC                       -42.5 130 13   682.6 2862  SDG/HDG
+10 0850 SKC                         9999 IC                       -42.5 120 13   682.7 2862  SDG/HDG
+10 0950 SKC                         9999 IC                       -42.5 120 13   682.8 2862  SDG/HDG
+10 1050                                                           -42.7 120 10   683.0 2863  
+10 1150 SKC                         9999 IC                       -42.6 120 13   682.8 2863  SDG/HDG
+10 1250                                                           -42.6 120 11   683.0 2863  
+10 1350 FEW040                      9999                          -42.5 110 10   683.1 2864  SDG/HDG
+10 1450 SKC                         9999                          -42.3 120 13   683.0 2863  SDG/HDG
+10 1550 SKC                         9999                          -42.3 120 11   683.1 2864  SDG/HDG
+10 1650 FEW040                      9999                          -42.4 120 12   683.0 2863  SDG/HDG
+10 1750 FEW030                      9999                          -42.3 120 12   683.1 2864  SDG/HDG
+10 1850 FEW040                      9999                          -42.1 120 08   683.3 2864  SDG/HDG
+10 1950 FEW040                      9999                          -42.1 110 07   683.4 2865  SDG/HDG
+10 2050 FEW050                      9999                          -42.6 110 09   683.4 2865  SDG/HDG
+10 2150 FEW000 FEW050               9999                          -42.9 110 11   683.4 2865  CONTRAIL FEW000 SDG/HDG
+10 2250 FEW050                      9999                          -42.9 110 09   683.3 2864  SDG/HDG
+10 2350 FEW050                      9999                          -43.0 110 10   683.2 2864  SDG/HDG
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+11 0050 FEW050                      9999                          -43.1 100 08   683.1 2864  SDG/HDG
+11 0150 FEW060                      9999                          -43.1 100 10   683.0 2863  SDG/HDG
+11 0250 FEW060                      9999                          -42.9 100 09   682.9 2863  SDG/HDG
+11 0350 FEW060                      9999                          -43.2 120 11   682.6 2862  SDG/HDG
+11 0450 FEW060                      9999                          -43.0 110 11   682.5 2862  SDG/HDG
+11 0550 FEW060                      9999                          -43.1 110 11   682.4 2861  SDG/HDG
+11 0650 FEW060                      9999                          -43.3 110 08   682.5 2861  SDG/HDG
+11 0750 FEW060                      9999                          -43.1 100 07   682.4 2861  SDG/HDG
+11 0850 FEW060                      9999                          -43.3 100 12   682.3 2861  SDG/HDG
+11 0950 FEW060                      9999                          -43.3 090 08   682.1 2860  SDG/HDG
+11 1050                                                           -43.3 100 11   682.1 2859  
+11 1150 FEW060                      9999                          -43.6 090 06   682.3 2861  SDG/HDG
+11 1250                                                           -44.0 090 07   682.2 2860  
+11 1350 FEW060                      9999                          -44.4 100 07   682.2 2860  SDG/HDG
+11 1450 FEW070                      9999                          -44.4 090 06   682.2 2860  SDG/HDG
+11 1550 FEW070                      9999                          -44.7 090 07   682.1 2860  SDG/HDG
+11 1650 FEW070                      9999                          -44.9 090 08   681.9 2859  SDG/HDG
+11 1750 FEW070                      9999                          -44.8 080 07   681.8 2859  SDG/HDG
+11 1850 FEW070                      9999                          -45.2 090 07   681.9 2859  SDG/HDG
+11 1950 FEW070                      9999                          -45.3 080 07   682.0 2860  SDG/HDG
+11 2050 FEW070                      9999                          -45.2 080 07   682.0 2860  SDG/HDG
+11 2150 FEW070                      9999                          -45.2 080 08   682.0 2860  SDG/HDG
+11 2250 FEW070                      9999                          -45.4 090 07   682.2 2861  SDG/HDG
+11 2350 FEW070                      9999                          -45.4 090 07   682.3 2861  SDG/HDG
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+12 0050 FEW010 FEW070               9999                          -45.4 080 08   682.2 2861  SDG/HDG
+12 0150 FEW010 FEW070               9999                          -45.5 080 07   682.4 2861  SDG/HDG
+12 0250 FEW010 FEW070               9999                          -45.5 080 07   682.4 2861  SDG/HDG
+12 0350 FEW010 FEW070               9999                          -46.0 080 07   682.4 2861  SDG/HDG
+12 0450 FEW070                      9999                          -45.5 080 07   682.4 2861  SDG/HDG
+12 0550 FEW050 SCT070               9999                          -45.5 070 07   682.4 2861  SDG/HDG
+12 0650                                                           -45.4 080 07   682.6 2862  
+12 0750                                                           -45.3 080 06   682.6 2862  
+12 0850                                                           -45.6 070 05   682.8 2862  
+12 0950                                                           -45.1 050 06   682.9 2863  
+12 1050                                                           -44.8 040 09   683.2 2864  
+12 1150 FEW010 BKN040 BKN110        6000 IC BR                    -44.2 020 12   683.3 2864  SDG/HDG
+12 1250                                                           -43.7 020 11   683.5 2865  
+12 1350 BKN010 BKN040 BKN110        6000 IC BR                    -43.3 020 11   683.5 2865  SDG/HDG
+12 1431 BKN010 OVC040               4800 IC BR                    -42.8 020 11   683.5 2865  SDG/HDF
+12 1450 BKN012 OVC030               6000 IC BR                    -42.6 030 12   683.6 2866  VIS GRID N 4000 SDG/HDF
+12 1537 BKN010 OVC030               3200 -SG IC BR                -42.3 020 13   683.5 2866  VIS GRID N 2400 VIS GRID W 1600 SDF/HDN
+12 1550 BKN010 OVC030               1600 -SG IC BR                -42.2 020 14   683.7 2866  VIS GRID E 2400 VIS GRID S 3200 SDP/HDN
+12 1632 BKN010 BKN030               4800 -SG IC BR                -41.8 020 14   683.8 2866  VIS GRID E-S 3200 SDF/HDP
+12 1650 BKN010 BKN029 BKN050        3200 -SG BLSN BR              -41.5 020 13   683.9 2867  VIS GRID S 2400 SDF/HDP
+12 1750 BKN008 OVC025               2400 -SG BLSN BR              -41.7 020 14   684.1 2868  VIS GRID S 3200 VIS GRID W 1600 SDP/HDN
+12 1850 BKN010 BKN030               3200 -SG BLSN BR              -41.3 020 13   684.1 2868  SDF/HDN
+12 1950 SCT010 BKN030 BKN050        3200 IC BLSN BR               -41.3 020 14   684.1 2868  SDF/HDN
+12 2050 SCT010 BKN030 BKN050        3200 -SG BLSN BR              -40.8 020 15   684.2 2868  SDF/HDN
+12 2150 SCT010 BKN030 BKN050        3200 -SG BLSN BR              -40.7 020 14   684.3 2869  SDF/HDN
+12 2250 BKN020 BKN050               3200 -SG BLSN BR              -40.4 020 16   684.4 2869  SDF/HDN
+12 2350 BKN030 BKN050               3200 -SG BLSN BR              -40.5 020 17   684.6 2870  SDF/HDN
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+13 0050 BKN030 BKN050               2400 -SG BLSN BR              -40.9 020 14   684.7 2870  SDF/HDN
+13 0150 SCT040 BKN060               3200 -SG BLSN BR              -40.6 030 15   684.8 2871  SDG/HDN
+13 0250 BKN010 BKN040               3200 -SG BLSN BR              -40.0 020 16   684.7 2870  SDF/HDN
+13 0350 BKN010 BKN030               2400 IC BLSN BR               -40.3 020 17   684.7 2870  SDF/HDP
+13 0450 SCT010 BKN050 BKN100        2800 IC BLSN BR               -40.6 020 17   684.6 2870  SDG/HDP
+13 0550 SCT010 BKN030 BKN100        3200 IC BLSN BR               -40.4 030 14   684.6 2870  SDG/HDP
+13 0650 SCT010 OVC050               1600 -SG BLSN BR              -39.3 040 15   684.7 2870  SDF/HDN
+13 0750 FEW010 SCT050 SCT100        2400 IC BLSN BR               -39.3 030 13   684.7 2870  SDG/HDN
+13 0850 FEW010 SCT050 SCT100        2400 IC BLSN BR               -39.6 040 14   684.7 2870  SDG/HDN
+13 0950                                                           -39.8 040 15   684.7 2870  
+13 1050                                                           -38.0 030 14   684.6 2870  
+13 1150 SCT008 BKN035 BKN080        1600 IC BLSN BR               -37.4 030 14   684.6 2869  SDG/HDN
+13 1250                                                           -38.5 030 14   684.7 2870  
+13 1350 BKN005 OVC015               1600 -SG BLSN BR              -38.5 040 14   684.5 2869  SDP/HDN
+13 1450 BKN008 OVC015               1600 -SG BLSN BR              -37.2 030 15   684.4 2869  VIS GRID N 1200 VIS GRID E 0800 SDP/HDN
+13 1550 BKN005 BKN015 OVC045        0800 IC BLSN FZFG             -36.6 020 16   684.2 2868  THN SPTS IOVC SDP/HDN
+13 1650 BKN005 OVC013               1200 IC BLSN BR               -37.7 020 16   684.2 2868  VIS GRID E 0800 VIS GRID S 1600 SDP/HDN
+13 1750 OVC004                      0800 IC BLSN FZFG             -37.1 020 16   684.1 2868  SUN DMLY VSBL SDP/HDN
+13 1850 BKN005 BKN015               0800 IC BLSN FZFG             -37.1 020 16   683.8 2867  SDF/HDN
+13 1950 SCT005 SCT015 BKN100        1200 IC BLSN BR               -37.3 020 17   683.9 2867  SDG/HDN
+13 2050 SCT005 BKN040 BKN100        0800 IC BLSN FZFG             -37.5 020 17   683.8 2867  SDG/HDN
+13 2150 BKN005 BKN040               0800 IC BLSN FZFG             -37.7 030 18   683.9 2867  SDP/HDN
+13 2250 SCT005 BKN030 BKN100        0800 IC BLSN FZFG             -37.3 020 18   683.8 2867  SDP/HDN
+13 2350 SCT005 BKN030 BKN100        0800 IC BLSN FZFG             -37.4 030 16   683.8 2867  SDP/HDN
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+14 0050 SCT005 OVC030               0800 IC BLSN FZFG             -37.4 040 14   683.5 2866  SDP/HDN
+14 0150 SCT005 OVC030               0800 IC BLSN FZFG             -36.9 030 16   683.4 2865  SDP/HDN
+14 0250 SCT005 OVC030               1200 -SG BLSN BR              -36.7 040 13   683.1 2864  SDF/HDN
+14 0336 SCT005 OVC030               1600 -SG BLSN BR              -37.2 040 16   682.9 2863  THN SPTS IOVC SDF/HDN
+14 0350 SCT005 BKN030               1600 -SG BLSN BR              -37.1 040 13   683.0 2863  SDF/HDN
+14 0450 SCT005 BKN030               2600 -SG BLSN BR              -37.2 040 14   682.8 2863  SDG/HDN
+14 0550 SCT005 BKN030               3200 -SG BLSN BR              -37.1 060 12   682.7 2862  SDG/HDN
+14 0650 SCT005 BKN030               4800 BLSN BR                  -37.0 050 13   682.8 2862  SDG/HDF
+14 0750 SCT005 BKN030 BKN070        6000 IC BLSN BR               -37.2 050 12   682.3 2861  VIS GRID N 3200 SDG/HDF
+14 0850 SCT030 BKN070               6000 IC BLSN BR               -37.5 060 11   682.2 2860  SDG/HDG
+14 0950 BKN030                      9000 IC BLSN BR               -36.7 050 13   682.0 2859  SDG/HDG
+14 1050                                                           -37.2 060 12   681.7 2858  
+14 1150 BKN027                      9000 IC BR                    -37.8 070 11   681.5 2857  SDG/HDG
+14 1250                                                           -38.0 090 08   681.4 2857  
+14 1350 FEW030 SCT070               9999                          -39.1 090 10   681.0 2855  SDG/HDG
+14 1450 FEW030 SCT080               9999                          -39.7 080 09   680.6 2854  SDG/HDG
+14 1550 FEW030 SCT080               9999                          -39.3 070 15   680.2 2853  SDG/HDG
+14 1650 FEW030 FEW080               9999                          -40.4 080 12   680.0 2851  SDG/HDG
+14 1750 FEW030 FEW070               9999                          -39.8 080 11   679.8 2851  SDG/HDG
+14 1850 FEW030 FEW070               9999                          -40.4 080 10   679.5 2850  SDG/HDG
+14 1950 FEW070                      9999                          -40.7 080 10   679.3 2849  SDG/HDG
+14 2050 FEW070                      9999                          -40.7 080 12   679.0 2848  SDG/HDG
+14 2150 FEW070                      9999                          -40.7 080 13   679.0 2848  SDG/HDG
+14 2250 FEW070                      9999                          -41.9 100 12   678.8 2847  SDG/HDG
+14 2350 FEW070                      9999                          -41.8 090 12   678.5 2846  SDG/HDG
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+15 0050                                                           -42.6 110 11   678.3 2845  
+15 0150                                                           -42.5 100 12   678.0 2843  
+15 0250                                                           -42.1 090 13   677.6 2842  
+15 0350                                                           -42.6 100 12   677.5 2841  
+15 0450                                                           -42.2 090 11   677.2 2840  
+15 0550 SKC                         9999                          -42.5 090 10   677.1 2841  SDG/HDG
+15 0650                                                           -42.5 090 11   677.1 2840  
+15 0750                                                           -42.5 090 10   676.9 2839  
+15 0850                                                           -42.5 090 09   676.8 2839  
+15 0950                                                           -42.8 100 09   676.8 2839  
+15 1050                                                           -42.6 090 08   676.7 2839  
+15 1150 FEW080                      8000 IC BR                    -42.4 090 08   676.6 2838  VIS GRID S-SW 3200 STN EXHAUST SDG/HDG
+15 1250                                                           -42.7 090 08   676.7 2838  
+15 1350 FEW070                      8000 IC BR                    -43.2 080 08   676.6 2838  VIS GRID S-SW 3200 STN EXHAUST SDG/HDG
+15 1450 FEW030 FEW070               8000 IC BR                    -43.3 090 08   676.4 2837  SDG/HDG
+15 1550 FEW040 FEW070               8000 IC BR                    -43.4 090 08   676.5 2838  SDG/HDG
+15 1650 FEW040 FEW070               6000 IC BR                    -43.3 100 08   676.5 2838  VIS GRID S-SW 3200 STN EXHAUST SDG/HDG
+15 1750 FEW040 FEW070               6000 IC BR                    -43.7 090 07   676.4 2838  SDG/HDF
+15 1850 FEW040 FEW070               8000 IC BR                    -44.0 090 09   676.5 2838  SDG/HDG
+15 1950 FEW040 FEW070               6000 IC BR                    -44.1 090 08   676.6 2839  SDG/HDF
+15 2050 FEW040 FEW070               6000 IC BR                    -44.0 090 07   676.7 2839  VIS GRID S-SW 3200 STN EXHAUST SDG/HDF
+15 2150 BKN020 BKN070               6000 IC BR                    -43.6 080 08   676.7 2839  SDG/HDF
+15 2250 SCT030 SCT070               6000 IC BR                    -44.9 080 08   676.8 2839  VIS GRID S-SW 1600 STN EXHAUST SDG/HDF
+15 2350 SCT030 SCT070               6000 IC BR                    -44.7 090 08   676.8 2839  VIS GRID S-SW 1600 STN EXHAUST SDG/HDF
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+16 0050 FEW030 FEW070               8000 IC BR                    -45.2 080 08   676.9 2840  SDG/HDG
+16 0150                                                           -45.0 090 06   677.0 2840  
+16 0250                                                           -44.7 080 08   677.1 2840  
+16 0350                                                           -44.8 080 07   677.1 2840  
+16 0450                                                           -45.0 080 06   677.3 2841  
+16 0550 FEW030 FEW070               8000 IC BR                    -45.1 080 05   677.2 2841  SDG/HDG
+16 0650                                                           -44.9 080 06   677.5 2841  
+16 0750                                                           -45.5 090 07   677.4 2841  
+16 0850                                                           -44.0 080 07   677.6 2842  
+16 0950                                                           -45.1 090 07   677.6 2842  
+16 1050                                                           -45.5 080 08   677.7 2842  
+16 1150 SCT010 BKN023 BKN070        6000 -SG IC BR                -44.0 080 08   677.7 2842  SDG/HDG
+16 1250                                                           -43.3 080 08   677.8 2843  
+16 1350                                                           -41.0 060 09   677.6 2842  
+16 1450                                                           -43.1 070 08   677.8 2843  
+16 1550                                                           -43.5 090 07   677.9 2843  
+16 1650                                                           -43.3 080 08   678.0 2844  
+16 1750 BKN030 BKN045               4800 -SG IC BR                -43.6 080 09   678.1 2844  SDG/HDP
+16 1850                                                           -43.9 080 09   678.2 2844  
+16 1950                                                           -44.7 080 09   678.4 2845  
+16 2050                                                           -44.9 090 08   678.5 2846  
+16 2150                                                           -45.0 080 10   678.5 2846  
+16 2250                                                           -43.9 080 09   678.5 2846  
+16 2350 BKN030 BKN045               8000 IC BR                    -43.1 080 08   678.6 2846  SDG/HDF
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+17 0050                                                           -43.3 090 07   678.8 2847  
+17 0150                                                           -43.5 090 07   678.8 2847  
+17 0250                                                           -44.5 090 09   678.9 2847  
+17 0350                                                           -45.0 090 09   678.9 2847  
+17 0450                                                           -45.3 100 11   679.0 2847  
+17 0550 SCT015 BKN070               9000 IC BR                    -45.6 100 10   679.0 2848  
+17 0650                                                           -45.1 090 12   679.1 2848  
+17 0750                                                           -45.8 090 08   679.3 2849  
+17 0850                                                           -45.3 090 09   679.3 2849  
+17 0950                                                           -45.7 090 08   679.3 2849  
+17 1050                                                           -46.2 090 08   679.3 2849  
+17 1150 FEW020 SCT070               9000 IC BR                    -46.4 090 08   679.3 2849  
+17 1250                                                           -46.6 090 09   679.3 2849  
+17 1350                                                           -46.8 090 09   679.2 2848  
+17 1450                                                           -46.8 090 08   679.3 2848  
+17 1550                                                           -46.5 080 09   679.2 2848  
+17 1650                                                           -45.5 080 09   679.3 2849  
+17 1750 FEW010 BKN040 BKN080        2400 -SG IC BR                -46.3 080 09   679.4 2849  
+17 1850                                                           -43.8 080 05   679.5 2850  
+17 1950                                                           -45.0 070 09   679.6 2850  
+17 2050                                                           -45.2 080 08   679.7 2850  
+17 2150                                                           -45.6 060 08   679.7 2850  
+17 2250                                                           -41.9 060 07   679.8 2850  
+17 2350 FEW010 SCT040 BKN080        8000 IC BR                    -42.0 080 07   679.7 2850  
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+18 0050                                                           -43.0 070 08   679.7 2850  
+18 0150                                                           -43.2 060 09   679.7 2850  
+18 0250                                                           -43.6 080 09   679.6 2850  
+18 0350                                                           -44.6 080 08   679.7 2850  
+18 0450                                                           -43.6 080 08   679.7 2850  
+18 0550 FEW010 FEW030               3200 IC BR                    -44.6 080 09   679.7 2850  
+18 0650                                                           -44.6 080 09   679.6 2850  
+18 0750                                                           -44.8 080 08   679.8 2851  
+18 0850                                                           -45.0 070 10   679.8 2851  
+18 0950                                                           -45.3 070 10   679.8 2851  
+18 1050                                                           -45.4 070 09   679.9 2851  
+18 1150 SCT020 BKN050               3200 IC BR                    -44.8 060 11   679.9 2851  
+18 1250                                                           -45.2 060 10   680.2 2852  
+18 1350                                                           -43.9 060 09   680.3 2853  
+18 1450                                                           -44.8 070 08   680.4 2853  
+18 1550                                                           -44.5 050 12   680.6 2854  
+18 1650                                                           -44.5 040 13   680.7 2854  
+18 1750 SCT007 OVC020               4800 IC BR                    -44.5 040 12   681.0 2855  
+18 1850                                                           -46.8 040 12   681.4 2857  
+18 1950                                                           -45.6 020 11   681.9 2859  
+18 2050                                                           -45.6 030 10   682.1 2859  
+18 2150                                                           -46.4 020 10   682.6 2861  
+18 2250                                                           -46.5 030 09   683.1 2863  
+18 2350 FEW005 SCT030               8000 IC BR                    -46.8 020 10   683.3 2865  
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+19 0050                                                           -47.3 020 09   683.9 2867  
+19 0150                                                           -47.5 020 07   684.3 2868  
+19 0250                                                           -47.0 040 08   684.5 2869  
+19 0350                                                           -47.1 040 07   684.9 2871  
+19 0450                                                           -47.4 040 07   685.2 2872  
+19 0550 BKN030 BKN060               9999                          -47.2 040 08   685.6 2874  
+19 0650                                                           -47.7 080 04   685.9 2875  
+19 0750                                                           -46.7 050 07   686.2 2875  
+19 0850                                                           -47.0 050 06   686.4 2877  
+19 0950                                                           -48.2 060 06   686.7 2878  
+19 1050                                                           -48.3 070 07   686.9 2879  
+19 1150 SCT020 BKN050               9000 IC BR                    -47.5 070 05   687.1 2879  
+19 1250                                                           -46.8 070 07   687.3 2880  
+19 1350                                                           -47.3 070 07   687.3 2880  
+19 1450                                                           -46.5 050 10   687.4 2881  
+19 1550                                                           -46.7 050 11   687.3 2880  
+19 1650                                                           -46.6 050 12   687.4 2881  
+19 1750 SCT010 BKN030 BKN050        2400 -SG BLSN BR              -46.3 040 16   687.4 2881  
+19 1850                                                           -46.8 040 13   687.6 2881  
+19 1950                                                           -47.2 050 12   687.5 2881  
+19 2050                                                           -46.7 040 13   687.5 2881  
+19 2150                                                           -46.6 040 12   687.5 2880  
+19 2250                                                           -46.7 030 13   687.5 2881  
+19 2350 SCT010 BKN030               1600 IC BLSN                  -47.1 030 16   687.5 2881  
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+20 0050                                                           -46.9 040 16   687.6 2881  
+20 0150                                                           -46.8 040 15   687.5 2881  
+20 0250                                                           -46.6 040 17   687.5 2881  
+20 0350                                                           -46.8 030 15   687.4 2881  
+20 0450                                                           -47.0 040 15   687.4 2880  
+20 0550 FEW020 FEW040               1600 IC BLSN                  -46.4 040 17   687.3 2880  
+20 0650                                                           -46.8 040 15   687.3 2880  
+20 0750                                                           -46.8 040 16   687.1 2879  
+20 0850                                                           -46.7 040 15   686.7 2878  
+20 0950                                                           -46.8 050 12   686.7 2877  
+20 1050                                                           -46.7 060 11   686.4 2877  
+20 1150 FEW020 SCT060               3200 BLSN BR                  -46.9 060 09   686.0 2875  
+20 1250                                                           -47.2 060 10   685.7 2874  
+20 1350                                                           -47.2 060 11   685.1 2871  
+20 1450                                                           -47.0 060 10   684.7 2870  
+20 1550                                                           -47.1 060 11   684.7 2868  
+20 1650                                                           -47.6 070 10   683.6 2866  
+20 1750 FEW010 FEW060               1600 IC BR                    -46.6 060 10   683.3 2865  
+20 1850                                                           -46.8 070 08   683.1 2864  
+20 1950                                                           -45.8 060 13   682.6 2862  
+20 2050                                                           -46.1 060 10   682.3 2860  
+20 2150                                                           -46.4 080 07   682.0 2859  
+20 2250                                                           -45.4 080 07   681.6 2857  
+20 2350 FEW010                      1600 IC BLSN BR               -46.2 060 12   681.1 2857  
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+21 0050                                                           -44.7 050 16   680.9 2855  
+21 0150                                                           -44.8 060 16   680.4 2853  
+21 0250                                                           -44.5 050 18   680.1 2852  
+21 0350                                                           -44.5 050 17   679.8 2851  
+21 0450                                                           -44.1 040 19   679.5 2850  
+21 0550 FEW010                      0800 IC BLSN FZFG             -43.8 050 18   679.2 2849  
+21 0650                                                           -43.6 050 16   679.1 2848  
+21 0750                                                           -42.9 050 16   678.6 2846  
+21 0850                                                           -42.7 050 15   678.3 2845  
+21 0950                                                           -42.0 060 12   677.9 2843  
+21 1050                                                           -41.6 050 16   677.5 2842  
+21 1150 SKC                         1600 BLSN BR                  -42.1 060 14   677.2 2841  
+21 1250                                                           -42.6 070 10   676.8 2839  
+21 1350                                                           -44.5 090 09   676.2 2837  
+21 1450                                                           -45.7 080 12   675.5 2834  
+21 1550                                                           -46.1 090 13   674.9 2831  
+21 1650                                                           -46.3 090 10   674.2 2829  
+21 1750 SKC                         3200 IC BR                    -47.8 100 10   673.9 2828  
+21 1850                                                           -47.5 100 10   673.9 2828  
+21 1950                                                           -48.3 090 09   674.0 2828  
+21 2050                                                           -47.6 060 10   674.3 2829  
+21 2150                                                           -46.0 050 08   674.8 2831  
+21 2250                                                           -45.6 040 13   675.3 2833  
+21 2350 SKC                         1600 IC BLSN BR               -46.0 040 14   675.8 2835  
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+22 0050                                                           -46.2 040 13   676.3 2837  
+22 0150                                                           -46.2 040 12   676.8 2839  
+22 0250                                                           -46.0 030 16   677.0 2840  
+22 0350                                                           -45.8 040 14   677.5 2842  
+22 0450                                                           -45.5 030 18   678.0 2844  
+22 0550 SCT010 BKN080               0800 IC BLSN FZFG             -45.6 030 18   678.6 2846  
+22 0650                                                           -45.0 040 14   678.9 2847  
+22 0750                                                           -45.0 030 20   679.2 2848  
+22 0850                                                           -44.2 030 19   680.0 2851  
+22 0950                                                           -43.8 020 20   680.2 2852  
+22 1050                                                           -43.5 020 21   680.6 2854  
+22 1150 SCT007 BKN070               0800 IC BLSN FZFG             -43.4 020 19   681.3 2857  
+22 1250                                                           -43.0 020 20   681.5 2857  
+22 1350                                                           -44.1 020 19   681.9 2859  
+22 1450                                                           -43.5 010 17   682.4 2861  
+22 1550                                                           -44.1 010 19   682.9 2863  
+22 1650                                                           -43.3 010 16   683.3 2864  
+22 1750 SCT007 OVC050               1600 -SG BLSN BR              -43.4 020 14   683.9 2867  
+22 1850                                                           -43.0 020 14   684.4 2869  
+22 1950                                                           -42.8 020 15   684.9 2871  
+22 2050                                                           -41.8 030 13   685.3 2872  
+22 2150                                                           -42.3 020 17   685.5 2873  
+22 2250                                                           -42.0 010 14   685.9 2875  
+22 2350 SCT020 BKN050               1600 IC BLSN BR               -41.1 020 15   686.2 2876  
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+23 0050                                                           -40.3 020 16   686.6 2877  
+23 0150                                                           -39.9 010 16   686.6 2877  
+23 0250                                                           -41.2 030 15   686.5 2877  
+23 0350                                                           -40.9 020 16   686.7 2878  
+23 0450                                                           -40.9 020 14   686.8 2878  
+23 0550 SCT010 SCT030 BKN050        2400 BLSN BR                  -41.4 020 12   686.8 2878  
+23 0650                                                           -39.7 020 16   686.7 2878  
+23 0750                                                           -39.8 030 15   686.7 2878  
+23 0850                                                           -40.8 040 12   686.8 2878  
+23 0950                                                           -41.6 040 14   686.4 2877  
+23 1050                                                           -41.6 050 13   686.3 2876  
+23 1150 FEW010 SCT030 BKN050        0800 IC BLSN FZFG             -42.0 060 13   685.8 2874  
+23 1250                                                           -41.3 060 10   685.3 2872  
+23 1350                                                           -40.6 040 16   684.7 2870  
+23 1450                                                           -39.5 040 16   684.1 2868  
+23 1550                                                           -40.3 050 11   683.4 2865  
+23 1650                                                           -40.8 040 13   683.0 2863  
+23 1750 BKN002 OVC040               0800 -SG BLSN FZFG            -40.7 040 16   682.3 2861  
+23 1850                                                           -40.1 050 13   682.1 2860  
+23 1950                                                           -39.3 050 13   681.5 2857  
+23 2050                                                           -40.1 050 13   680.9 2855  
+23 2150                                                           -41.5 060 12   680.4 2853  
+23 2250                                                           -41.1 060 10   679.9 2851  
+23 2350 SCT015 BKN040               0600 IC FZFG                  -40.3 050 10   679.0 2848  
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+24 0050                                                           -40.9 060 10   678.4 2845  
+24 0150                                                           -42.0 080 08   677.7 2842  
+24 0250                                                           -42.1 080 08   676.9 2839  
+24 0350                                                           -39.8 060 15   676.1 2836  
+24 0450                                                           -40.7 090 08   675.5 2834  
+24 0550 OVC010                      1000 BR                       -40.4 080 08   674.9 2832  
+24 0650                                                           -41.4 070 11   674.6 2830  
+24 0750                                                           -43.3 090 09   674.0 2828  
+24 0850                                                           -43.0 090 09   673.7 2826  
+24 0950                                                           -41.9 070 08   673.1 2824  
+24 1050                                                           -42.1 090 08   672.6 2823  
+24 1150 OVC010                      1600 IC BR                    -39.3 080 07   672.0 2820  
+24 1250                                                           -36.4 060 10   671.4 2818  
+24 1350                                                           -36.9 050 13   671.1 2817  
+24 1450                                                           -38.1 050 13   670.6 2814  
+24 1550                                                           -39.5 050 13   670.4 2813  
+24 1650                                                           -40.6 060 12   670.2 2813  
+24 1750 FEW010 BKN050               1600 IC BR                    -41.6 060 10   669.8 2811  
+24 1850                                                           -43.5 070 11   669.8 2811  
+24 1950                                                           -44.6 080 10   669.5 2810  
+24 2050                                                           -44.1 090 09   669.3 2809  
+24 2150                                                           -44.1 080 08   669.2 2809  
+24 2250                                                           -44.8 080 08   669.1 2809  
+24 2350 FEW010 FEW050               1600 IC BR                    -45.2 100 05   669.0 2809  
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+25 0050                                                           -45.2 090 08   668.9 2808  
+25 0150                                                           -43.5 060 12   668.9 2808  
+25 0250                                                           -43.1 050 14   668.8 2807  
+25 0350                                                           -43.2 050 15   668.9 2808  
+25 0450                                                           -43.5 050 15   669.1 2809  
+25 0550 FEW005                      0400 IC BLSN FZFG             -43.2 050 17   669.0 2809  
+25 0650                                                           -43.2 040 16   669.4 2810  
+25 0750                                                           -43.4 040 16   669.8 2811  
+25 0850                                                           -43.6 040 13   670.1 2812  
+25 0950                                                           -43.2 040 16   670.4 2814  
+25 1050                                                           -43.8 040 14   670.8 2815  
+25 1150 SCT006 OVC018               0400 IC BLSN FZFG             -44.3 040 13   671.2 2817  
+25 1250                                                           -44.5 030 12   671.6 2818  
+25 1350                                                           -44.6 030 13   672.0 2820  
+25 1450                                                           -45.0 020 12   672.6 2822  
+25 1550                                                           -45.7 030 13   672.9 2824  
+25 1650                                                           -45.6 020 13   673.5 2826  
+25 1750 SCT005 OVC019               1600 -SG BLSN BR              -46.1 020 13   674.3 2829  
+25 1850                                                           -46.1 020 14   675.1 2832  
+25 1950                                                           -47.3 020 12   675.7 2835  
+25 2050                                                           -47.0 020 14   676.3 2837  
+25 2150                                                           -46.9 020 10   677.1 2840  
+25 2250                                                           -46.9 020 10   677.8 2842  
+25 2350 SCT010 BKN040               2400 IC DRSN BR               -46.5 020 10   677.9 2844  
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+26 0050                                                           -46.6 030 09   678.5 2846  
+26 0150                                                           -46.6 030 10   678.9 2847  
+26 0250                                                           -46.8 040 09   679.3 2849  
+26 0350                                                           -47.3 040 11   679.4 2849  
+26 0450                                                           -46.9 040 10   679.8 2851  
+26 0550 SCT010 BKN040               3200 IC DRSN BR               -46.3 060 07   680.0 2852  
+26 0650                                                           -46.6 070 06   680.5 2853  
+26 0750                                                           -46.7 060 09   680.6 2854  
+26 0850                                                           -46.5 080 06   680.7 2854  
+26 0950                                                           -47.4 080 05   680.8 2854  
+26 1050                                                           -47.3 080 08   680.7 2854  
+26 1150 SCT060                      6000 IC BR                    -47.2 090 07   680.7 2854  
+26 1250                                                           -46.8 090 08   680.5 2854  
+26 1350                                                           -47.2 080 10   680.2 2852  
+26 1450                                                           -46.6 080 11   680.0 2851  
+26 1550                                                           -46.0 090 09   680.0 2851  
+26 1650                                                           -46.7 090 09   679.9 2851  
+26 1750 FEW020 SCT070               8000 IC BR                    -46.9 100 08   679.9 2851  
+26 1850                                                           -47.0 100 08   679.8 2851  
+26 1950                                                           -47.7 090 10   679.7 2850  
+26 2050                                                           -47.9 090 10   679.4 2859  
+26 2150                                                           -48.7 090 09   679.3 2848  
+26 2250                                                           -47.8 090 09   679.1 2848  
+26 2350 FEW030 FEW070               9999 IC                       -47.3 090 10   678.7 2847  
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+27 0050                                                           -47.3 100 08   678.7 2846  
+27 0150                                                           -47.0 100 08   678.6 2846  
+27 0250                                                           -46.9 090 09   678.4 2845  
+27 0350                                                           -47.4 100 05   678.4 2845  
+27 0450                                                           -47.5 090 06   678.2 2844  
+27 0550 FEW070                      9999 IC                       -47.7 100 10   678.2 2845  
+27 0650                                                           -47.8 110 10   678.3 2845  
+27 0750                                                           -48.2 100 10   678.2 2844  
+27 0850                                                           -48.4 100 11   678.1 2844  
+27 0950                                                           -48.1 110 10   678.0 2844  
+27 1050                                                           -48.1 100 11   677.9 2843  
+27 1150 FEW002 SCT010 BKN080        8000 IC BR                    -49.0 100 10   677.7 2843  
+27 1250                                                           -47.9 110 10   677.5 2841  
+27 1350                                                           -47.0 110 10   677.2 2841  
+27 1450                                                           -46.7 120 09   677.0 2840  
+27 1550                                                           -47.6 120 11   676.8 2839  
+27 1650                                                           -48.5 120 12   676.6 2838  
+27 1750 FEW002 SCT020 BKN070        9000 IC BR                    -48.4 140 10   676.4 2837  
+27 1850                                                           -49.2 130 11   676.3 2837  
+27 1950                                                           -49.2 120 12   676.0 2836  
+27 2050                                                           -49.6 130 11   675.7 2834  
+27 2150                                                           -50.6 120 12   675.5 2834  
+27 2250                                                           -49.5 120 14   675.2 2833  
+27 2350 FEW020 FEW070               4800 IC BR                    -49.6 110 11   674.9 2832  
+DD HHMM SKY                         V    OB                       T(C)  WIND     PRES  ALT   REM
+28 0050                                                           -48.9 120 11   675.0 2832  
+28 0150                                                           -48.7 120 12   674.8 2831  
+28 0250                                                           -48.4 130 11   674.6 2830  
+28 0350                                                           -49.2 110 11   674.3 2829  
+28 0450                                                           -49.0 110 12   674.6 2830  
+28 0550 SCT015 SCT070               4800 IC BR                    -48.8 110 06   674.6 2831  
+28 0650                                                           -49.0 090 09   674.9 2831  
+28 0750                                                           -48.5 090 09   675.0 2832  
+28 0850                                                           -49.1 100 08   675.1 2832  
+28 0950                                                           -50.4 090 08   675.4 2833  
+28 1050                                                           -49.8 100 10   675.7 2835  
+28 1150 FEW015 SCT070               6000 IC BR                    -49.4 090 10   675.8 2835  
+28 1250                                                           -49.6 090 08   676.0 2836  
+28 1350                                                           -49.2 090 10   676.2 2836  
+28 1450                                                           -49.3 090 08   676.5 2838  
+28 1550                                                           -49.7 100 07   676.7 2839  
+28 1650                                                           -48.7 090 09   677.1 2840  
+28 1750 FEW015 BKN080               4800 -SG IC BR                -48.9 100 07   677.3 2841  
+28 1850                                                           -48.4 090 09   677.8 2843  
+28 1950                                                           -47.8 100 09   678.1 2844  
+28 2050                                                           -48.2 100 08   678.4 2845  
+28 2150                                                           -48.9 090 09   678.5 2846  
+28 2250                                                           -49.1 090 08   678.6 2846  
+28 2350 FEW020 SCT040 BKN080        4800 IC BR                    -49.0 090 07   678.7 2846  
